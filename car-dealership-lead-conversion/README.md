@@ -192,7 +192,7 @@ Business recommendations for dealership sales teams
 
 ## Resume Summary
 
-# Customer Lead Conversion Prediction · Python · XGBoost · CRM Analytics · Classification
+### Customer Lead Conversion Prediction · Python · XGBoost · CRM Analytics · Classification
 Built a machine learning lead scoring model for a car dealership using CRM, sales and customer enquiry data to predict purchase likelihood and prioritise high-intent leads.
 
 Developed a classification model using lead source, response time, test drive status, finance enquiry, trade-in interest and follow-up activity to predict conversion probability.
