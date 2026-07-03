@@ -1,0 +1,1501 @@
+lead_id,lead_source,customer_age_group,customer_location,vehicle_type,new_or_used,budget_range,finance_enquiry,trade_in,test_drive_completed,quote_provided,previous_customer,response_time_hours,follow_up_count,days_since_enquiry,converted
+L0001,Walk-in,35-44,Nearby Suburb,Hatchback,Used,Medium,1,0,1,0,0,18.8,5,38,1
+L0002,Social Media,35-44,Nearby Suburb,Sedan,New,High,0,0,0,1,1,4.0,2,20,1
+L0003,Carsales,18-24,Local,SUV,Demo,Low,1,1,0,0,0,5.5,2,29,0
+L0004,Carsales,25-34,Nearby Suburb,SUV,Used,Low,0,0,1,0,0,2.9,2,6,0
+L0005,Website,25-34,Nearby Suburb,Sedan,New,Medium,1,1,0,0,0,7.2,2,9,0
+L0006,Website,25-34,Far Suburb,SUV,Demo,High,0,0,1,1,0,7.7,4,5,1
+L0007,Website,35-44,Far Suburb,Ute,Used,Medium,0,0,0,1,0,8.2,3,39,0
+L0008,Referral,35-44,Local,SUV,New,Low,1,0,1,1,0,36.2,1,19,0
+L0009,Carsales,35-44,Nearby Suburb,Hatchback,Used,Medium,0,1,0,0,0,16.0,5,5,0
+L0010,Carsales,45-54,Local,EV,New,High,1,0,1,1,0,9.1,2,20,1
+L0011,Website,45-54,Nearby Suburb,SUV,Used,High,0,0,1,0,0,13.3,3,11,0
+L0012,Social Media,45-54,Local,Sedan,Used,High,0,0,0,1,0,5.9,0,27,0
+L0013,Referral,55+,Local,SUV,Demo,Low,0,0,1,1,1,31.8,1,29,1
+L0014,Website,18-24,Local,Hatchback,Used,Low,0,0,1,1,0,16.5,3,7,0
+L0015,Website,25-34,Nearby Suburb,Hatchback,Used,Medium,0,1,0,0,1,15.0,2,3,0
+L0016,Website,18-24,Local,Sedan,Used,High,0,0,1,1,1,21.8,2,5,1
+L0017,Walk-in,35-44,Nearby Suburb,Sedan,New,Low,0,1,0,0,0,27.0,3,13,0
+L0018,Phone,55+,Local,Ute,Used,Low,1,0,1,1,0,4.1,2,16,1
+L0019,Phone,25-34,Local,SUV,Used,Medium,0,1,0,0,0,20.1,3,12,0
+L0020,Walk-in,55+,Nearby Suburb,SUV,New,Low,1,1,0,0,0,12.6,5,39,0
+L0021,Carsales,18-24,Local,Ute,New,Medium,0,0,0,0,0,11.4,3,27,0
+L0022,Website,55+,Local,Hatchback,Demo,Medium,1,1,0,0,1,24.8,5,33,0
+L0023,Walk-in,25-34,Nearby Suburb,Ute,Demo,Medium,0,1,1,0,0,4.4,4,15,1
+L0024,Walk-in,18-24,Local,Hatchback,New,Medium,0,0,1,1,1,9.2,4,21,1
+L0025,Phone,35-44,Local,Ute,New,Medium,0,0,0,1,0,8.3,4,44,0
+L0026,Carsales,25-34,Local,Sedan,New,Medium,0,1,0,1,1,12.5,2,17,1
+L0027,Website,25-34,Far Suburb,Ute,Demo,Medium,1,0,1,1,0,12.9,2,37,0
+L0028,Phone,25-34,Nearby Suburb,EV,New,Medium,0,0,0,0,0,19.6,5,15,1
+L0029,Carsales,45-54,Nearby Suburb,Hatchback,Used,Medium,1,1,0,1,0,9.8,5,20,1
+L0030,Website,35-44,Nearby Suburb,SUV,New,Low,0,0,0,0,0,26.1,1,19,1
+L0031,Carsales,25-34,Local,SUV,Used,Low,0,1,0,1,0,13.5,3,1,0
+L0032,Website,35-44,Local,SUV,New,Low,1,1,0,0,1,4.1,8,4,1
+L0033,Website,45-54,Nearby Suburb,SUV,Used,Low,0,1,1,0,0,6.1,3,3,1
+L0034,Social Media,25-34,Local,SUV,New,Medium,1,0,0,0,1,15.0,6,8,1
+L0035,Social Media,25-34,Local,Hatchback,Used,High,0,0,1,0,0,12.8,1,41,0
+L0036,Referral,25-34,Local,Hatchback,New,Medium,1,0,0,0,1,12.4,3,44,0
+L0037,Walk-in,25-34,Local,Sedan,Used,Medium,0,0,0,0,0,28.6,2,5,0
+L0038,Website,35-44,Far Suburb,Hatchback,Demo,Medium,1,0,1,1,0,18.3,1,9,0
+L0039,Carsales,25-34,Local,SUV,New,Medium,1,0,0,1,1,7.0,2,1,0
+L0040,Phone,35-44,Nearby Suburb,SUV,Demo,Medium,0,0,0,0,0,8.5,3,43,0
+L0041,Website,45-54,Local,SUV,Used,Low,0,0,1,0,0,6.7,4,30,0
+L0042,Phone,18-24,Far Suburb,Sedan,New,Low,0,0,0,1,0,4.9,2,7,0
+L0043,Website,35-44,Local,SUV,New,Medium,1,1,1,0,0,29.9,2,22,0
+L0044,Social Media,25-34,Local,SUV,New,High,0,1,0,1,0,12.8,3,20,1
+L0045,Walk-in,55+,Nearby Suburb,Sedan,Used,Low,0,1,1,0,0,3.5,5,29,0
+L0046,Carsales,35-44,Nearby Suburb,Ute,Used,Low,0,0,0,1,0,24.5,3,27,0
+L0047,Walk-in,45-54,Local,SUV,New,Medium,0,1,0,1,0,5.4,3,25,1
+L0048,Phone,35-44,Local,Hatchback,Used,Low,1,1,1,1,0,11.3,2,35,1
+L0049,Phone,18-24,Local,Hatchback,Used,High,1,0,1,1,0,10.1,1,27,0
+L0050,Website,35-44,Local,Ute,Demo,Medium,0,0,0,0,0,2.6,3,11,0
+L0051,Social Media,55+,Local,EV,Used,High,1,0,0,0,1,1.5,4,17,1
+L0052,Carsales,35-44,Nearby Suburb,SUV,Demo,Medium,0,0,0,1,1,16.1,2,31,0
+L0053,Social Media,45-54,Local,SUV,Used,Medium,0,0,1,1,0,21.0,1,18,0
+L0054,Referral,45-54,Local,Ute,New,Medium,0,0,1,0,1,11.8,5,19,0
+L0055,Carsales,25-34,Nearby Suburb,Sedan,Used,Medium,1,1,1,1,0,42.2,2,38,0
+L0056,Social Media,25-34,Far Suburb,Hatchback,Used,Medium,1,0,0,0,1,5.8,2,29,0
+L0057,Website,35-44,Nearby Suburb,Hatchback,Used,Low,1,0,1,0,0,2.0,5,15,1
+L0058,Website,25-34,Local,Hatchback,Used,Medium,0,1,0,1,0,13.0,1,7,0
+L0059,Website,45-54,Local,EV,Used,Medium,0,0,0,0,0,4.3,3,37,0
+L0060,Walk-in,55+,Far Suburb,EV,Used,High,0,1,0,1,0,9.2,6,37,1
+L0061,Walk-in,25-34,Local,Hatchback,New,Medium,1,0,1,0,0,18.5,4,7,0
+L0062,Walk-in,25-34,Local,SUV,New,Medium,1,1,1,0,0,6.3,6,22,1
+L0063,Referral,45-54,Nearby Suburb,Ute,Used,Low,1,0,0,1,0,9.2,0,12,1
+L0064,Walk-in,25-34,Nearby Suburb,SUV,Used,Medium,0,0,1,1,0,20.4,3,8,1
+L0065,Walk-in,45-54,Nearby Suburb,SUV,New,Medium,0,0,1,0,0,8.3,5,18,1
+L0066,Phone,35-44,Local,Ute,Used,High,0,1,0,0,0,13.0,3,28,0
+L0067,Website,35-44,Local,SUV,Used,High,0,1,0,0,0,14.2,4,18,0
+L0068,Referral,18-24,Far Suburb,SUV,New,Low,0,0,1,0,0,8.4,1,31,0
+L0069,Website,35-44,Local,SUV,New,High,0,1,1,1,0,8.6,7,17,1
+L0070,Social Media,35-44,Nearby Suburb,Ute,New,Low,0,0,0,1,1,9.4,2,23,0
+L0071,Carsales,35-44,Nearby Suburb,Sedan,Demo,Medium,1,1,0,0,1,5.8,4,11,0
+L0072,Website,25-34,Nearby Suburb,Hatchback,New,Medium,1,1,0,0,0,12.6,4,15,0
+L0073,Website,45-54,Local,SUV,New,Low,0,0,0,1,0,5.9,1,30,0
+L0074,Referral,45-54,Local,Ute,Used,Medium,0,0,1,1,0,6.5,3,31,1
+L0075,Carsales,25-34,Nearby Suburb,Ute,New,Low,0,1,0,1,1,4.4,3,6,0
+L0076,Carsales,18-24,Far Suburb,SUV,New,Low,1,1,1,1,0,21.4,6,12,1
+L0077,Carsales,18-24,Far Suburb,Sedan,New,Medium,1,1,0,0,0,3.1,4,23,0
+L0078,Website,35-44,Local,SUV,Used,Medium,1,1,0,0,0,29.1,3,39,0
+L0079,Walk-in,35-44,Local,EV,Used,High,1,0,0,1,0,8.8,3,40,1
+L0080,Website,35-44,Far Suburb,Hatchback,New,Medium,0,1,1,1,0,7.0,3,36,0
+L0081,Referral,25-34,Nearby Suburb,EV,New,Medium,0,0,1,0,0,4.4,3,35,0
+L0082,Carsales,25-34,Far Suburb,SUV,Demo,Medium,0,1,1,0,0,4.8,4,3,0
+L0083,Walk-in,35-44,Local,Ute,New,Low,0,0,0,0,0,5.9,3,42,0
+L0084,Website,35-44,Nearby Suburb,Ute,New,Low,1,0,0,1,0,49.3,1,28,0
+L0085,Walk-in,55+,Nearby Suburb,Hatchback,New,Medium,0,0,0,0,0,5.9,4,15,0
+L0086,Walk-in,25-34,Nearby Suburb,EV,Used,Medium,0,0,0,0,0,13.3,5,13,0
+L0087,Carsales,45-54,Local,Sedan,Used,Medium,0,0,1,1,1,8.0,5,19,0
+L0088,Carsales,25-34,Local,SUV,New,Medium,1,1,0,0,0,30.6,3,40,0
+L0089,Referral,35-44,Nearby Suburb,Hatchback,Used,Medium,0,1,1,0,0,11.1,3,18,0
+L0090,Phone,45-54,Local,Hatchback,New,Low,1,0,0,0,0,3.6,5,31,0
+L0091,Website,45-54,Nearby Suburb,Hatchback,New,Low,0,1,0,0,0,6.7,3,37,1
+L0092,Carsales,55+,Far Suburb,SUV,Used,High,0,1,0,0,0,37.9,2,21,1
+L0093,Carsales,25-34,Local,Sedan,New,Medium,0,0,0,1,0,16.5,3,39,0
+L0094,Phone,18-24,Far Suburb,SUV,Used,High,1,0,1,1,0,9.2,1,5,0
+L0095,Carsales,45-54,Local,Sedan,New,Low,0,1,1,0,0,4.6,4,17,0
+L0096,Phone,35-44,Nearby Suburb,Hatchback,Used,High,1,1,0,0,0,5.0,5,19,0
+L0097,Phone,25-34,Far Suburb,Ute,New,Low,0,0,0,1,0,4.0,3,4,0
+L0098,Walk-in,18-24,Local,SUV,Demo,Low,0,0,1,0,0,2.4,3,26,1
+L0099,Website,18-24,Local,Sedan,New,High,1,0,1,0,0,15.8,1,24,0
+L0100,Website,55+,Local,SUV,Demo,Low,0,0,1,1,0,14.0,2,39,0
+L0101,Website,25-34,Local,SUV,New,Medium,1,0,0,0,0,10.5,2,38,0
+L0102,Carsales,25-34,Nearby Suburb,Ute,Used,Low,1,0,0,0,0,23.3,6,19,0
+L0103,Walk-in,25-34,Far Suburb,EV,New,Medium,0,1,1,0,0,15.4,5,30,0
+L0104,Phone,25-34,Local,Sedan,Demo,High,1,1,1,0,0,2.9,4,26,1
+L0105,Social Media,18-24,Local,Ute,New,Low,0,0,0,0,1,9.5,6,11,0
+L0106,Website,35-44,Local,Ute,New,Medium,0,0,1,0,1,17.1,4,39,0
+L0107,Walk-in,18-24,Nearby Suburb,Ute,Used,Low,0,1,1,0,0,9.6,1,3,0
+L0108,Carsales,45-54,Local,SUV,New,Medium,1,1,0,1,0,10.3,6,22,1
+L0109,Website,25-34,Nearby Suburb,EV,New,Low,0,1,0,0,0,2.4,2,17,1
+L0110,Website,35-44,Nearby Suburb,Sedan,Demo,Low,1,1,0,0,0,6.0,2,11,0
+L0111,Walk-in,45-54,Nearby Suburb,SUV,Demo,Low,1,0,0,1,1,13.3,3,39,0
+L0112,Website,35-44,Local,SUV,New,Low,0,1,1,1,1,8.5,5,27,0
+L0113,Social Media,35-44,Nearby Suburb,Sedan,Demo,High,0,0,0,0,1,2.7,3,43,0
+L0114,Referral,25-34,Local,SUV,Used,Medium,0,0,1,0,0,16.9,3,29,1
+L0115,Carsales,25-34,Local,SUV,New,Low,0,0,1,0,0,8.3,1,12,0
+L0116,Referral,35-44,Far Suburb,SUV,Used,Medium,0,0,0,1,1,10.1,2,13,0
+L0117,Referral,55+,Nearby Suburb,Ute,Used,Low,1,1,0,0,0,2.9,3,11,1
+L0118,Website,35-44,Local,Ute,Demo,Medium,1,1,1,0,1,2.1,1,31,0
+L0119,Referral,35-44,Local,SUV,New,High,1,0,1,0,0,10.5,1,11,1
+L0120,Phone,45-54,Local,Ute,Used,Medium,1,0,1,0,0,21.4,4,41,0
+L0121,Referral,35-44,Local,Ute,New,High,1,0,0,0,0,16.6,2,43,0
+L0122,Referral,18-24,Local,Ute,New,Medium,0,0,0,0,0,15.0,4,36,0
+L0123,Walk-in,35-44,Local,SUV,New,Low,1,0,1,1,0,11.2,4,2,1
+L0124,Website,55+,Nearby Suburb,Hatchback,Demo,Medium,1,1,1,1,0,3.4,1,23,1
+L0125,Website,25-34,Nearby Suburb,EV,Used,Medium,0,1,0,0,0,1.2,3,36,0
+L0126,Walk-in,45-54,Nearby Suburb,Hatchback,Used,Medium,1,1,1,0,0,41.2,3,14,0
+L0127,Referral,25-34,Nearby Suburb,SUV,Used,High,0,1,0,0,0,8.2,1,37,0
+L0128,Referral,35-44,Local,Sedan,New,Medium,1,0,1,0,0,6.2,3,27,1
+L0129,Website,18-24,Far Suburb,Hatchback,New,High,1,0,1,1,1,10.0,2,12,1
+L0130,Phone,35-44,Far Suburb,Sedan,New,Medium,1,0,0,1,0,4.4,5,29,0
+L0131,Walk-in,45-54,Far Suburb,SUV,New,Medium,0,0,1,0,0,6.7,5,6,0
+L0132,Website,25-34,Far Suburb,SUV,Used,Medium,1,1,0,0,1,28.6,6,44,1
+L0133,Website,35-44,Far Suburb,Ute,Used,Low,0,0,0,0,1,12.2,3,23,0
+L0134,Walk-in,45-54,Nearby Suburb,Ute,New,High,0,0,0,1,0,14.2,2,10,1
+L0135,Social Media,55+,Local,SUV,New,Medium,1,0,0,1,1,8.8,1,34,0
+L0136,Walk-in,25-34,Nearby Suburb,EV,New,Low,1,1,0,1,0,19.7,2,44,1
+L0137,Phone,25-34,Nearby Suburb,SUV,New,Low,1,0,1,1,0,19.3,1,12,1
+L0138,Carsales,25-34,Nearby Suburb,Hatchback,Demo,Medium,0,1,1,0,0,8.1,3,32,0
+L0139,Walk-in,55+,Nearby Suburb,Ute,Used,Low,0,1,0,1,0,9.6,4,26,0
+L0140,Social Media,55+,Local,Ute,Used,Low,1,0,1,1,1,21.8,4,7,0
+L0141,Social Media,35-44,Local,EV,Used,Medium,0,0,1,1,0,10.0,1,32,0
+L0142,Walk-in,45-54,Far Suburb,SUV,New,Low,0,1,1,0,1,7.4,1,33,1
+L0143,Phone,35-44,Nearby Suburb,Ute,New,Medium,1,0,1,1,0,7.8,5,18,0
+L0144,Walk-in,35-44,Nearby Suburb,SUV,Demo,Low,0,1,0,1,0,6.7,3,35,0
+L0145,Walk-in,18-24,Local,Hatchback,Used,Low,1,0,0,1,0,9.9,0,20,0
+L0146,Website,45-54,Local,Ute,New,Medium,0,0,1,1,1,6.9,8,31,1
+L0147,Carsales,25-34,Far Suburb,Hatchback,Used,Medium,0,1,0,1,0,9.9,2,5,1
+L0148,Phone,45-54,Nearby Suburb,SUV,Used,Low,0,1,0,1,1,5.5,5,32,1
+L0149,Website,45-54,Nearby Suburb,Ute,Used,Low,0,1,0,1,1,12.3,3,42,1
+L0150,Walk-in,45-54,Nearby Suburb,SUV,Demo,Medium,0,1,0,1,0,13.6,2,19,0
+L0151,Social Media,18-24,Nearby Suburb,SUV,Used,Low,0,1,0,0,0,15.2,7,1,0
+L0152,Website,25-34,Local,Hatchback,Used,Low,0,1,0,0,1,13.8,0,7,0
+L0153,Website,25-34,Nearby Suburb,Sedan,New,Low,0,1,0,0,1,18.7,3,22,0
+L0154,Phone,25-34,Local,Ute,New,High,0,0,1,1,0,10.4,4,34,0
+L0155,Social Media,18-24,Local,Sedan,New,Medium,0,0,1,1,0,9.8,4,10,1
+L0156,Website,55+,Nearby Suburb,SUV,New,Medium,0,1,0,1,0,6.1,4,42,1
+L0157,Carsales,35-44,Far Suburb,Ute,Used,Medium,1,0,0,0,0,16.2,8,26,1
+L0158,Carsales,25-34,Local,Sedan,Used,Medium,1,0,0,0,0,6.4,4,32,0
+L0159,Website,25-34,Far Suburb,SUV,New,Medium,1,0,0,0,0,2.0,2,42,0
+L0160,Carsales,35-44,Local,Hatchback,Used,Medium,0,0,0,0,0,5.9,1,27,0
+L0161,Walk-in,35-44,Local,Sedan,New,Low,1,0,0,1,0,17.0,2,12,0
+L0162,Carsales,35-44,Local,Hatchback,New,Medium,1,0,1,0,0,14.8,0,40,0
+L0163,Carsales,55+,Local,Sedan,New,Medium,1,1,0,1,0,11.5,4,23,0
+L0164,Phone,35-44,Nearby Suburb,Ute,New,Medium,0,0,0,1,0,36.1,3,14,1
+L0165,Website,55+,Local,Ute,New,Medium,1,0,0,0,0,12.4,1,34,0
+L0166,Referral,45-54,Nearby Suburb,Hatchback,Used,Low,1,0,1,1,0,5.1,3,17,1
+L0167,Walk-in,25-34,Far Suburb,SUV,New,Medium,1,0,1,0,0,4.8,6,6,0
+L0168,Website,55+,Local,Ute,Demo,Medium,0,0,1,0,0,13.8,4,27,0
+L0169,Website,18-24,Nearby Suburb,Hatchback,New,High,0,1,0,1,0,24.0,1,8,0
+L0170,Carsales,45-54,Local,Hatchback,New,Low,0,0,0,1,1,9.7,1,33,0
+L0171,Carsales,25-34,Nearby Suburb,Sedan,New,Medium,0,1,0,0,0,12.6,3,35,0
+L0172,Website,45-54,Local,Ute,Used,Medium,1,0,1,0,0,13.1,3,17,1
+L0173,Phone,45-54,Local,Hatchback,New,High,0,0,0,0,1,36.9,7,26,0
+L0174,Website,45-54,Local,SUV,Used,Medium,0,0,1,0,0,18.0,5,7,0
+L0175,Carsales,45-54,Local,Sedan,Used,Medium,0,0,1,1,1,20.9,7,24,0
+L0176,Website,25-34,Local,Ute,Used,Medium,0,1,1,1,0,5.0,3,25,1
+L0177,Carsales,18-24,Nearby Suburb,SUV,Used,Medium,0,1,0,0,0,6.4,2,35,0
+L0178,Walk-in,25-34,Far Suburb,EV,New,High,1,0,1,1,0,6.0,4,26,1
+L0179,Social Media,25-34,Far Suburb,Hatchback,New,Low,1,0,0,0,0,8.2,2,5,0
+L0180,Website,45-54,Nearby Suburb,Hatchback,New,Low,0,0,0,0,0,10.3,6,38,0
+L0181,Walk-in,25-34,Local,SUV,Used,High,0,0,0,1,0,12.0,3,35,1
+L0182,Website,55+,Local,SUV,New,Medium,0,1,1,1,0,9.2,1,30,1
+L0183,Social Media,35-44,Local,EV,New,Medium,0,0,0,1,1,5.9,2,25,0
+L0184,Referral,45-54,Local,SUV,Demo,Medium,1,1,0,1,0,4.1,6,24,0
+L0185,Walk-in,25-34,Nearby Suburb,Ute,New,Low,1,0,0,1,0,12.9,4,30,1
+L0186,Carsales,45-54,Nearby Suburb,Sedan,Used,Medium,1,0,1,0,0,15.5,3,20,1
+L0187,Referral,55+,Local,SUV,Used,Medium,1,0,1,1,0,8.5,4,3,1
+L0188,Phone,35-44,Local,SUV,New,Low,0,0,1,1,0,2.4,3,32,0
+L0189,Phone,35-44,Far Suburb,Sedan,New,Low,1,1,0,0,0,17.9,4,8,0
+L0190,Website,45-54,Nearby Suburb,EV,New,High,1,0,0,1,0,8.2,2,23,0
+L0191,Website,25-34,Local,Sedan,Used,Low,1,1,1,0,1,3.1,7,16,1
+L0192,Referral,35-44,Far Suburb,Sedan,Used,High,0,0,0,0,0,9.6,3,35,1
+L0193,Social Media,25-34,Far Suburb,SUV,Used,Low,1,1,1,1,0,18.7,4,25,0
+L0194,Carsales,25-34,Local,Sedan,Demo,Medium,1,0,1,0,0,7.2,6,15,0
+L0195,Walk-in,25-34,Local,Sedan,Used,High,1,1,0,1,0,0.9,4,8,1
+L0196,Walk-in,18-24,Nearby Suburb,Ute,New,Medium,0,1,0,0,0,7.9,2,34,0
+L0197,Carsales,18-24,Far Suburb,Sedan,New,Medium,1,1,1,1,1,5.7,6,25,1
+L0198,Referral,25-34,Far Suburb,Sedan,Used,Medium,1,0,0,0,1,10.9,2,44,1
+L0199,Referral,55+,Local,SUV,New,Low,1,1,0,0,0,9.8,3,19,0
+L0200,Carsales,35-44,Local,EV,New,Low,1,0,1,0,0,6.7,2,43,0
+L0201,Carsales,55+,Nearby Suburb,SUV,Used,High,1,0,0,1,0,6.4,4,13,0
+L0202,Website,35-44,Nearby Suburb,SUV,New,Medium,0,0,1,1,0,22.3,6,12,0
+L0203,Website,25-34,Local,Hatchback,Demo,Medium,1,0,0,1,0,13.7,2,15,0
+L0204,Referral,35-44,Far Suburb,Hatchback,Used,Medium,0,1,1,0,0,13.4,2,23,1
+L0205,Carsales,35-44,Nearby Suburb,Sedan,New,Low,1,0,0,0,0,17.2,6,40,0
+L0206,Website,18-24,Far Suburb,Sedan,Demo,Low,0,0,0,0,0,8.1,2,2,0
+L0207,Website,35-44,Far Suburb,Ute,New,Medium,0,1,1,1,1,26.1,1,40,1
+L0208,Carsales,25-34,Nearby Suburb,SUV,New,Medium,1,0,1,0,1,12.1,6,23,0
+L0209,Website,35-44,Local,Ute,New,Medium,1,1,0,1,0,10.5,4,5,0
+L0210,Website,35-44,Nearby Suburb,Hatchback,New,High,1,0,0,1,0,12.0,4,34,1
+L0211,Phone,25-34,Local,Sedan,Used,Low,1,0,1,0,1,7.9,2,10,1
+L0212,Carsales,18-24,Nearby Suburb,Sedan,New,Medium,1,0,0,0,0,5.9,1,27,0
+L0213,Carsales,45-54,Local,SUV,New,Low,0,1,1,1,1,19.9,4,42,1
+L0214,Website,35-44,Nearby Suburb,Ute,New,Medium,0,1,1,0,0,3.8,5,4,1
+L0215,Carsales,18-24,Local,Sedan,Used,Low,0,1,1,0,0,4.1,5,4,0
+L0216,Website,55+,Local,SUV,Used,High,0,0,0,0,0,9.0,2,8,0
+L0217,Walk-in,18-24,Local,Hatchback,New,Low,0,0,0,1,1,5.0,2,6,0
+L0218,Carsales,45-54,Local,EV,New,High,1,0,1,1,0,2.4,3,25,0
+L0219,Carsales,55+,Nearby Suburb,Sedan,New,Medium,1,0,0,0,0,4.0,7,27,0
+L0220,Referral,25-34,Nearby Suburb,EV,New,High,0,0,0,0,0,5.1,3,40,1
+L0221,Carsales,25-34,Nearby Suburb,SUV,Used,Medium,0,1,0,0,1,12.5,5,20,0
+L0222,Phone,25-34,Local,SUV,Used,High,1,0,0,1,1,8.5,4,27,1
+L0223,Website,25-34,Local,SUV,New,Low,0,0,0,0,1,17.7,2,7,0
+L0224,Walk-in,18-24,Local,Sedan,New,Medium,0,1,0,0,1,3.8,0,23,0
+L0225,Walk-in,45-54,Local,SUV,New,High,1,1,1,1,0,4.4,4,20,1
+L0226,Website,18-24,Far Suburb,SUV,Used,Low,1,0,0,1,0,11.2,0,34,0
+L0227,Social Media,35-44,Local,EV,New,Low,0,0,0,1,0,5.7,1,29,0
+L0228,Walk-in,55+,Local,Ute,Demo,Medium,1,0,0,1,0,7.6,1,44,0
+L0229,Referral,45-54,Local,Ute,Used,High,0,0,0,0,1,4.0,6,5,0
+L0230,Carsales,35-44,Local,SUV,New,Medium,1,1,0,0,1,3.8,2,27,1
+L0231,Referral,25-34,Nearby Suburb,SUV,Used,Medium,0,0,1,0,0,5.5,7,12,0
+L0232,Phone,35-44,Nearby Suburb,SUV,Demo,Low,0,1,1,0,0,18.4,4,17,0
+L0233,Phone,35-44,Local,Hatchback,Used,Low,1,1,0,1,1,3.1,6,37,1
+L0234,Phone,35-44,Local,EV,New,High,0,0,0,1,0,19.8,5,34,0
+L0235,Website,25-34,Local,Sedan,New,Low,1,0,0,1,0,17.3,1,30,0
+L0236,Carsales,45-54,Local,SUV,Used,Medium,0,0,1,0,0,6.7,4,36,0
+L0237,Walk-in,35-44,Local,Sedan,Used,High,0,1,1,1,0,9.8,3,6,1
+L0238,Website,25-34,Far Suburb,SUV,Used,Low,0,0,1,1,0,11.9,5,32,1
+L0239,Carsales,25-34,Nearby Suburb,Sedan,Demo,Medium,0,0,0,0,0,15.0,1,32,0
+L0240,Website,25-34,Nearby Suburb,Hatchback,Demo,Low,1,0,1,1,0,4.4,3,9,1
+L0241,Social Media,45-54,Local,Hatchback,Demo,Medium,0,0,0,0,1,16.2,5,22,0
+L0242,Social Media,45-54,Local,SUV,New,Low,1,1,0,0,0,10.3,3,10,0
+L0243,Social Media,45-54,Nearby Suburb,SUV,Used,Medium,1,0,1,1,0,4.7,0,29,1
+L0244,Walk-in,18-24,Nearby Suburb,EV,Used,Low,1,0,1,1,1,10.4,2,11,1
+L0245,Website,25-34,Nearby Suburb,SUV,Used,Medium,0,0,0,0,0,4.6,2,28,0
+L0246,Social Media,35-44,Local,SUV,Used,Medium,1,0,0,0,0,9.5,3,2,0
+L0247,Walk-in,18-24,Nearby Suburb,SUV,New,Low,0,1,0,1,1,6.9,4,21,0
+L0248,Social Media,25-34,Local,SUV,Used,Medium,0,1,0,1,0,10.8,4,31,0
+L0249,Social Media,45-54,Far Suburb,Sedan,Used,Low,0,0,0,1,1,11.2,3,41,0
+L0250,Referral,25-34,Nearby Suburb,Ute,New,Medium,0,0,1,0,0,21.5,0,17,1
+L0251,Walk-in,35-44,Nearby Suburb,SUV,Used,Low,0,0,1,0,0,14.4,2,27,0
+L0252,Walk-in,25-34,Local,Sedan,New,Medium,1,0,1,0,0,12.8,2,30,1
+L0253,Referral,18-24,Nearby Suburb,Hatchback,New,Low,0,0,1,0,0,2.2,9,41,1
+L0254,Walk-in,25-34,Local,Sedan,New,Medium,0,1,0,0,1,18.0,3,8,0
+L0255,Website,55+,Local,Ute,New,Low,1,0,1,0,0,7.1,5,37,0
+L0256,Phone,45-54,Local,Ute,Used,Medium,0,1,1,1,1,4.0,3,5,1
+L0257,Social Media,55+,Nearby Suburb,SUV,Used,Low,0,0,0,0,1,32.4,4,26,0
+L0258,Carsales,35-44,Local,Ute,Used,High,0,1,0,1,0,5.7,2,6,1
+L0259,Phone,18-24,Local,Sedan,Used,High,1,0,0,0,1,23.0,0,16,1
+L0260,Website,35-44,Far Suburb,EV,New,Low,0,1,1,0,0,12.0,1,1,1
+L0261,Carsales,35-44,Local,Sedan,New,Medium,0,0,1,0,0,13.8,0,9,1
+L0262,Social Media,45-54,Nearby Suburb,EV,Demo,Low,0,0,0,0,1,9.6,2,21,0
+L0263,Website,18-24,Local,Ute,New,Medium,1,1,1,0,0,4.8,5,7,1
+L0264,Phone,35-44,Local,SUV,Demo,Medium,1,0,0,1,0,15.5,3,43,0
+L0265,Referral,25-34,Nearby Suburb,Sedan,Used,Medium,1,1,1,1,0,11.4,3,15,1
+L0266,Carsales,25-34,Local,EV,Used,Medium,0,1,0,0,0,11.3,2,24,0
+L0267,Carsales,45-54,Nearby Suburb,Ute,Demo,Low,0,0,0,0,0,10.2,1,5,0
+L0268,Carsales,35-44,Nearby Suburb,SUV,New,Medium,0,0,0,1,0,8.0,3,38,1
+L0269,Walk-in,25-34,Nearby Suburb,Hatchback,New,Low,0,0,1,1,0,15.6,2,29,0
+L0270,Walk-in,25-34,Nearby Suburb,SUV,Used,Medium,0,0,0,0,0,13.5,2,11,0
+L0271,Referral,35-44,Local,SUV,New,Medium,0,0,1,1,0,16.8,3,4,1
+L0272,Referral,45-54,Local,Sedan,Demo,Medium,0,1,0,1,0,8.3,1,10,1
+L0273,Referral,55+,Nearby Suburb,SUV,New,Low,1,0,1,1,0,7.8,0,34,0
+L0274,Social Media,55+,Nearby Suburb,Ute,Used,Low,0,0,1,1,1,6.5,3,4,0
+L0275,Phone,45-54,Far Suburb,SUV,Used,Low,1,0,0,1,0,10.4,3,10,1
+L0276,Phone,25-34,Far Suburb,Ute,Used,Low,0,0,0,1,0,2.3,5,33,0
+L0277,Referral,35-44,Far Suburb,SUV,New,Low,0,0,1,0,0,42.4,2,18,0
+L0278,Carsales,35-44,Nearby Suburb,SUV,New,High,0,1,1,1,0,6.0,3,12,1
+L0279,Carsales,25-34,Local,SUV,Used,High,0,1,1,1,0,21.1,3,23,0
+L0280,Referral,45-54,Nearby Suburb,SUV,New,Medium,0,0,0,1,1,7.0,2,44,0
+L0281,Referral,18-24,Nearby Suburb,SUV,Used,Medium,0,1,0,1,1,14.3,6,25,0
+L0282,Walk-in,55+,Local,SUV,Used,Low,1,0,1,0,1,27.6,5,37,1
+L0283,Walk-in,35-44,Far Suburb,Hatchback,Used,High,1,1,0,0,1,13.8,3,4,0
+L0284,Website,35-44,Far Suburb,SUV,Used,Low,0,1,0,0,0,26.6,1,13,0
+L0285,Phone,35-44,Nearby Suburb,Sedan,New,High,1,1,0,0,0,20.3,3,18,0
+L0286,Website,55+,Local,Sedan,Used,Medium,1,0,1,0,1,4.5,4,29,0
+L0287,Phone,35-44,Local,Ute,Demo,Low,1,0,1,1,0,15.7,2,44,0
+L0288,Phone,35-44,Far Suburb,EV,New,High,1,0,0,0,1,12.4,2,30,0
+L0289,Walk-in,18-24,Far Suburb,Sedan,Demo,Low,0,1,0,1,0,5.6,3,38,0
+L0290,Carsales,35-44,Local,SUV,Used,Medium,0,0,0,1,1,19.2,2,28,0
+L0291,Website,25-34,Local,SUV,New,Medium,0,1,0,0,0,3.7,1,7,0
+L0292,Website,45-54,Far Suburb,EV,New,Low,0,0,0,0,1,18.4,1,24,0
+L0293,Referral,35-44,Local,SUV,Demo,Medium,0,1,1,1,0,15.8,3,41,1
+L0294,Walk-in,35-44,Nearby Suburb,SUV,New,Medium,1,0,0,1,0,10.5,3,10,0
+L0295,Website,18-24,Far Suburb,SUV,Demo,Medium,1,0,0,1,0,6.2,3,37,0
+L0296,Phone,18-24,Local,SUV,Demo,Low,1,0,1,1,1,15.6,0,27,0
+L0297,Carsales,45-54,Nearby Suburb,SUV,New,High,1,0,0,1,1,1.7,4,21,1
+L0298,Website,18-24,Local,Ute,New,Low,1,0,1,1,0,5.3,3,36,1
+L0299,Carsales,18-24,Local,SUV,Used,Low,1,1,0,1,0,9.7,5,43,0
+L0300,Website,18-24,Far Suburb,Hatchback,New,Low,0,0,0,1,0,10.5,8,29,0
+L0301,Website,55+,Local,SUV,Used,Low,0,0,1,1,1,5.4,3,7,1
+L0302,Phone,45-54,Far Suburb,SUV,New,Low,0,1,1,0,0,5.5,2,13,1
+L0303,Phone,25-34,Nearby Suburb,EV,Used,High,1,0,0,1,0,14.1,5,23,0
+L0304,Carsales,25-34,Local,SUV,Used,Low,0,1,1,0,0,4.6,3,25,0
+L0305,Carsales,25-34,Local,Ute,New,Low,1,1,1,1,0,7.5,0,41,1
+L0306,Social Media,45-54,Local,Sedan,New,Low,0,0,0,0,0,3.7,4,13,0
+L0307,Phone,35-44,Local,SUV,New,Medium,0,0,0,0,0,10.1,1,37,0
+L0308,Walk-in,25-34,Local,EV,New,High,1,0,1,0,1,8.4,1,30,1
+L0309,Referral,25-34,Local,SUV,Used,Low,0,1,0,0,1,1.6,2,26,0
+L0310,Walk-in,18-24,Nearby Suburb,Ute,Used,Low,0,0,1,0,0,3.1,1,12,0
+L0311,Phone,35-44,Nearby Suburb,SUV,New,Low,0,1,1,1,1,21.9,3,1,1
+L0312,Website,45-54,Nearby Suburb,Ute,Used,Low,0,1,1,0,0,5.8,5,18,0
+L0313,Website,25-34,Nearby Suburb,SUV,Used,Low,1,0,0,0,0,12.6,4,21,0
+L0314,Social Media,18-24,Local,Sedan,New,Medium,0,1,0,0,0,4.4,3,24,0
+L0315,Referral,18-24,Local,Ute,New,Low,1,1,1,1,0,24.0,3,17,0
+L0316,Carsales,55+,Nearby Suburb,EV,Demo,Medium,0,0,0,0,1,2.2,4,42,0
+L0317,Walk-in,25-34,Nearby Suburb,EV,Used,Low,1,1,0,0,0,20.5,3,9,0
+L0318,Website,45-54,Local,Ute,Used,High,0,1,0,0,0,10.5,3,40,0
+L0319,Website,35-44,Far Suburb,Ute,Used,High,1,0,0,1,1,15.3,2,28,0
+L0320,Walk-in,25-34,Nearby Suburb,SUV,New,Medium,1,0,1,0,0,22.1,3,15,0
+L0321,Phone,25-34,Nearby Suburb,SUV,Used,Medium,0,0,0,0,1,11.6,4,13,0
+L0322,Carsales,25-34,Local,SUV,Used,Medium,1,0,1,0,1,28.1,2,28,1
+L0323,Carsales,35-44,Nearby Suburb,Sedan,Used,Medium,1,1,0,1,0,21.9,8,17,1
+L0324,Walk-in,45-54,Nearby Suburb,Sedan,New,Medium,0,0,1,0,1,15.0,2,9,0
+L0325,Social Media,35-44,Nearby Suburb,Sedan,New,Medium,0,1,0,1,0,19.7,1,21,0
+L0326,Carsales,35-44,Nearby Suburb,SUV,New,High,1,0,1,0,0,9.8,8,30,0
+L0327,Phone,18-24,Far Suburb,Hatchback,Demo,High,1,0,1,0,0,4.8,2,11,0
+L0328,Carsales,55+,Nearby Suburb,SUV,New,Low,0,1,0,0,0,38.7,3,30,0
+L0329,Walk-in,45-54,Local,SUV,Used,Medium,0,1,1,0,1,10.3,1,36,1
+L0330,Website,25-34,Nearby Suburb,Sedan,New,Low,1,0,0,0,0,12.0,3,25,0
+L0331,Walk-in,55+,Nearby Suburb,Ute,New,Low,1,0,1,0,0,3.2,6,7,1
+L0332,Carsales,35-44,Nearby Suburb,Ute,Used,Medium,1,0,1,0,1,23.0,3,20,0
+L0333,Website,35-44,Local,Hatchback,Used,Low,0,0,1,1,0,11.8,2,35,0
+L0334,Website,45-54,Local,SUV,Used,High,1,0,1,1,0,14.0,2,10,0
+L0335,Website,45-54,Far Suburb,Sedan,New,Low,0,0,0,0,0,15.3,2,35,1
+L0336,Website,35-44,Nearby Suburb,SUV,Used,Medium,0,1,0,1,1,5.6,4,1,0
+L0337,Referral,25-34,Far Suburb,Sedan,New,Medium,1,0,0,1,0,22.6,3,14,0
+L0338,Carsales,25-34,Nearby Suburb,Sedan,New,Medium,1,1,0,1,0,12.7,1,5,0
+L0339,Phone,55+,Nearby Suburb,SUV,Used,Medium,0,1,1,0,0,1.7,5,40,0
+L0340,Website,25-34,Nearby Suburb,SUV,New,High,0,0,0,1,0,19.7,2,44,0
+L0341,Phone,25-34,Far Suburb,EV,New,Medium,1,1,1,0,0,9.2,3,38,1
+L0342,Phone,35-44,Nearby Suburb,EV,Used,Medium,0,0,0,1,0,6.1,3,34,0
+L0343,Website,35-44,Nearby Suburb,Sedan,Used,Low,1,1,0,0,0,2.4,5,24,0
+L0344,Phone,35-44,Local,SUV,Used,Medium,1,0,1,0,0,7.5,4,4,1
+L0345,Walk-in,55+,Nearby Suburb,SUV,New,High,0,0,0,0,0,6.9,6,27,0
+L0346,Carsales,25-34,Nearby Suburb,Sedan,New,Medium,1,1,1,0,1,21.2,4,5,0
+L0347,Carsales,25-34,Local,EV,New,High,1,0,0,1,0,6.5,1,43,0
+L0348,Website,25-34,Local,SUV,Demo,Medium,1,1,1,0,0,2.9,4,13,0
+L0349,Walk-in,45-54,Local,Ute,Used,Low,1,1,0,1,0,14.1,2,40,0
+L0350,Carsales,35-44,Local,SUV,Used,Low,1,0,0,0,0,21.8,2,21,0
+L0351,Phone,25-34,Local,EV,New,Low,0,0,1,0,0,7.8,5,37,0
+L0352,Referral,45-54,Local,Sedan,Used,Medium,0,0,1,1,0,31.6,2,32,1
+L0353,Carsales,45-54,Far Suburb,Ute,New,Medium,1,1,0,1,0,19.6,2,38,0
+L0354,Website,45-54,Nearby Suburb,SUV,Used,Low,0,1,0,0,1,23.1,1,31,0
+L0355,Website,55+,Local,Hatchback,Demo,Medium,0,0,0,0,0,13.9,4,32,0
+L0356,Carsales,25-34,Local,SUV,Demo,Medium,1,0,0,1,1,12.9,2,15,1
+L0357,Website,45-54,Nearby Suburb,SUV,Used,Medium,1,1,1,0,0,6.2,4,30,1
+L0358,Phone,35-44,Local,EV,Used,Low,0,0,1,1,1,27.2,0,43,0
+L0359,Social Media,45-54,Far Suburb,EV,Demo,Low,1,1,0,1,0,24.4,3,7,0
+L0360,Phone,45-54,Nearby Suburb,Ute,Used,Low,1,0,0,0,0,27.6,6,38,1
+L0361,Walk-in,45-54,Nearby Suburb,Hatchback,New,Low,0,1,1,0,1,9.9,3,31,1
+L0362,Carsales,35-44,Local,Ute,Used,Low,1,0,0,0,0,7.9,1,44,0
+L0363,Phone,25-34,Nearby Suburb,SUV,New,Low,0,0,1,0,0,16.6,4,26,0
+L0364,Phone,35-44,Local,SUV,Used,Medium,0,0,0,1,0,7.1,0,36,0
+L0365,Social Media,55+,Far Suburb,SUV,Used,Low,0,0,1,1,1,9.9,2,43,0
+L0366,Walk-in,55+,Nearby Suburb,Hatchback,Used,High,0,1,0,1,0,1.9,4,26,0
+L0367,Social Media,18-24,Local,Sedan,New,Low,0,0,1,1,1,12.1,1,44,0
+L0368,Social Media,25-34,Local,SUV,New,Low,1,1,0,0,0,14.9,3,2,0
+L0369,Website,25-34,Local,Hatchback,Used,Medium,1,0,0,1,0,23.4,5,43,0
+L0370,Website,45-54,Nearby Suburb,Ute,Used,Low,1,0,1,0,0,17.0,2,43,0
+L0371,Website,45-54,Local,Sedan,Used,High,1,0,0,1,0,18.9,1,9,0
+L0372,Website,25-34,Nearby Suburb,SUV,New,Low,0,1,0,0,0,30.3,5,5,0
+L0373,Website,35-44,Local,SUV,Demo,High,0,0,0,1,0,5.4,1,27,0
+L0374,Carsales,45-54,Nearby Suburb,SUV,Demo,High,1,0,0,1,0,4.6,2,12,0
+L0375,Website,45-54,Far Suburb,SUV,New,Medium,0,1,1,0,0,11.5,2,35,0
+L0376,Walk-in,35-44,Nearby Suburb,Hatchback,New,Medium,0,0,1,0,0,4.2,2,29,1
+L0377,Referral,35-44,Nearby Suburb,Hatchback,Used,Medium,1,0,0,1,1,12.6,2,16,0
+L0378,Website,35-44,Local,Hatchback,Used,Medium,0,0,1,0,1,4.3,1,19,0
+L0379,Referral,25-34,Local,Sedan,Demo,Medium,1,0,0,1,1,5.1,2,43,0
+L0380,Walk-in,35-44,Nearby Suburb,Ute,Demo,Low,0,1,1,1,0,2.5,3,27,0
+L0381,Website,35-44,Local,SUV,Used,Low,0,0,0,0,1,12.0,3,18,0
+L0382,Carsales,45-54,Local,Sedan,Used,Medium,0,0,0,0,0,3.4,0,41,0
+L0383,Carsales,35-44,Local,Ute,New,Medium,1,0,0,1,0,14.3,5,13,0
+L0384,Referral,45-54,Local,SUV,New,High,0,0,0,0,1,15.9,7,30,0
+L0385,Carsales,25-34,Local,SUV,Used,Low,0,0,0,0,1,5.9,3,26,1
+L0386,Referral,35-44,Far Suburb,Ute,Used,High,1,1,0,1,0,17.4,1,6,0
+L0387,Walk-in,18-24,Local,SUV,Used,Low,1,0,1,1,0,16.1,3,3,1
+L0388,Website,25-34,Nearby Suburb,Hatchback,Used,Medium,0,0,0,0,0,20.3,1,23,0
+L0389,Carsales,45-54,Local,SUV,New,Low,0,1,1,0,0,5.5,3,12,0
+L0390,Referral,55+,Nearby Suburb,Hatchback,Used,Medium,0,0,0,1,1,5.3,3,41,0
+L0391,Social Media,18-24,Local,SUV,New,Low,1,1,1,1,0,15.4,1,41,0
+L0392,Walk-in,25-34,Far Suburb,SUV,New,Medium,1,0,1,1,1,11.4,5,15,0
+L0393,Walk-in,45-54,Far Suburb,Hatchback,Used,High,0,1,1,0,0,12.1,4,1,1
+L0394,Carsales,25-34,Local,SUV,Used,Medium,1,0,1,1,1,23.9,0,8,1
+L0395,Walk-in,35-44,Far Suburb,Sedan,Demo,Medium,0,0,1,1,1,18.2,3,31,1
+L0396,Social Media,45-54,Far Suburb,SUV,New,High,0,0,0,1,0,16.2,1,11,1
+L0397,Referral,35-44,Far Suburb,SUV,Used,Medium,0,0,1,1,0,15.0,11,17,1
+L0398,Walk-in,25-34,Far Suburb,SUV,New,Medium,0,0,0,0,1,19.2,0,27,0
+L0399,Carsales,25-34,Local,SUV,New,Low,0,0,0,1,0,8.8,4,31,0
+L0400,Carsales,45-54,Nearby Suburb,EV,Demo,High,0,0,0,0,0,4.1,3,27,0
+L0401,Website,35-44,Local,SUV,Used,Medium,1,0,1,0,0,6.4,3,14,1
+L0402,Social Media,18-24,Local,Sedan,Demo,Low,0,0,0,1,0,5.8,0,23,0
+L0403,Phone,45-54,Far Suburb,SUV,New,Low,1,1,0,1,1,0.7,1,5,1
+L0404,Referral,18-24,Local,SUV,Demo,High,0,1,0,1,0,15.0,4,30,0
+L0405,Walk-in,45-54,Nearby Suburb,EV,New,Low,0,0,1,1,1,8.0,7,34,0
+L0406,Referral,25-34,Far Suburb,SUV,Demo,High,0,0,0,0,0,9.0,1,19,0
+L0407,Walk-in,55+,Far Suburb,EV,New,Low,0,0,0,1,1,6.7,0,31,0
+L0408,Website,25-34,Far Suburb,SUV,New,Medium,0,0,0,0,0,10.0,2,16,0
+L0409,Social Media,25-34,Local,Ute,Used,Medium,0,1,1,1,0,26.2,4,27,1
+L0410,Website,25-34,Local,Sedan,Demo,Medium,0,0,1,0,0,2.4,2,26,0
+L0411,Walk-in,25-34,Local,Ute,New,High,0,0,1,1,1,29.3,3,39,0
+L0412,Social Media,45-54,Local,Hatchback,New,Medium,1,1,1,0,0,11.9,3,29,0
+L0413,Social Media,55+,Local,Sedan,Demo,Medium,1,0,0,1,1,7.1,1,39,0
+L0414,Phone,25-34,Local,SUV,New,Low,0,1,1,1,0,7.7,3,44,1
+L0415,Carsales,35-44,Nearby Suburb,SUV,New,Low,0,1,0,0,0,5.0,2,29,0
+L0416,Phone,45-54,Nearby Suburb,EV,New,Low,0,0,0,1,1,1.7,4,31,0
+L0417,Walk-in,45-54,Local,SUV,New,Medium,1,0,0,1,0,4.3,4,2,1
+L0418,Walk-in,35-44,Nearby Suburb,Sedan,Demo,Low,0,0,0,1,0,10.0,2,6,1
+L0419,Carsales,25-34,Local,Ute,Used,Low,0,0,1,1,0,8.4,1,9,1
+L0420,Carsales,25-34,Local,SUV,Used,Medium,0,0,0,0,0,13.7,3,15,0
+L0421,Referral,45-54,Nearby Suburb,EV,Demo,Medium,1,1,1,0,0,6.8,2,20,1
+L0422,Carsales,18-24,Nearby Suburb,Ute,Used,Medium,0,0,0,0,0,6.1,5,2,0
+L0423,Website,35-44,Nearby Suburb,Hatchback,New,Low,1,0,0,0,0,35.6,3,3,0
+L0424,Phone,25-34,Local,Ute,New,Low,0,0,0,0,0,5.1,3,30,0
+L0425,Website,45-54,Far Suburb,SUV,New,High,1,1,1,1,1,5.4,7,8,1
+L0426,Phone,18-24,Nearby Suburb,SUV,New,Low,1,0,1,0,0,19.0,4,40,0
+L0427,Phone,35-44,Nearby Suburb,Sedan,Demo,High,0,1,0,0,0,16.1,2,21,0
+L0428,Referral,35-44,Nearby Suburb,SUV,Used,High,1,0,1,0,0,7.5,4,39,0
+L0429,Walk-in,35-44,Far Suburb,Ute,New,Medium,0,0,0,1,1,17.0,3,43,0
+L0430,Website,18-24,Nearby Suburb,EV,Used,Low,1,1,1,1,0,10.8,3,13,1
+L0431,Website,35-44,Nearby Suburb,Sedan,Used,High,1,1,1,0,0,6.8,6,40,0
+L0432,Carsales,35-44,Far Suburb,SUV,Demo,Medium,0,0,0,1,1,15.4,2,41,0
+L0433,Carsales,35-44,Nearby Suburb,EV,Demo,Medium,1,0,1,0,0,10.1,0,37,1
+L0434,Website,35-44,Local,Sedan,Used,Low,0,1,0,1,1,1.8,3,32,0
+L0435,Website,35-44,Nearby Suburb,Sedan,Used,Low,0,0,0,1,0,15.4,3,14,0
+L0436,Carsales,45-54,Local,Sedan,Used,Low,0,0,1,0,0,9.1,1,1,0
+L0437,Website,25-34,Local,EV,Used,Medium,1,1,0,1,1,24.9,3,27,1
+L0438,Referral,45-54,Nearby Suburb,Hatchback,New,Medium,0,0,0,1,0,17.5,0,24,0
+L0439,Carsales,35-44,Far Suburb,Ute,New,Medium,0,0,0,0,0,11.4,2,22,0
+L0440,Website,18-24,Far Suburb,Ute,Used,Medium,1,0,0,1,0,7.6,4,14,0
+L0441,Website,18-24,Local,SUV,New,Medium,0,1,1,0,1,9.9,6,8,1
+L0442,Social Media,25-34,Nearby Suburb,Sedan,New,Medium,0,1,1,0,0,4.9,3,27,0
+L0443,Walk-in,45-54,Local,Ute,Used,High,0,0,1,0,0,11.4,3,3,1
+L0444,Walk-in,45-54,Far Suburb,Sedan,New,Low,0,0,0,0,0,26.1,0,33,0
+L0445,Referral,45-54,Far Suburb,Ute,Used,Medium,0,0,0,0,0,31.5,7,21,0
+L0446,Social Media,35-44,Nearby Suburb,EV,Used,Low,0,1,0,1,0,21.4,3,32,0
+L0447,Social Media,35-44,Far Suburb,Hatchback,Demo,Medium,1,0,0,0,0,11.0,4,40,0
+L0448,Carsales,25-34,Nearby Suburb,Ute,Used,Medium,1,1,1,0,0,2.9,5,41,0
+L0449,Walk-in,25-34,Nearby Suburb,Ute,New,High,0,0,1,1,0,9.5,2,44,0
+L0450,Website,35-44,Local,Ute,Used,Low,0,1,0,1,0,18.3,0,41,0
+L0451,Carsales,18-24,Nearby Suburb,Sedan,Used,High,0,0,1,1,0,16.9,1,32,0
+L0452,Phone,25-34,Nearby Suburb,SUV,Demo,Low,1,1,1,1,0,8.9,1,24,1
+L0453,Walk-in,35-44,Nearby Suburb,Sedan,New,Medium,0,0,0,1,1,8.4,2,11,0
+L0454,Social Media,45-54,Local,Hatchback,New,Low,0,0,1,1,0,13.0,2,37,0
+L0455,Website,55+,Far Suburb,Sedan,Demo,High,1,1,0,1,0,10.4,3,21,0
+L0456,Phone,55+,Local,Ute,New,Medium,0,1,0,1,0,9.5,2,18,0
+L0457,Website,35-44,Nearby Suburb,Sedan,Used,Medium,0,0,0,0,1,9.1,3,11,0
+L0458,Phone,35-44,Nearby Suburb,Hatchback,New,High,1,1,0,0,0,23.3,3,27,0
+L0459,Website,35-44,Nearby Suburb,SUV,New,Low,1,0,0,1,0,4.4,6,43,0
+L0460,Website,45-54,Nearby Suburb,Ute,New,Low,0,1,0,0,0,8.0,4,38,0
+L0461,Website,18-24,Local,Sedan,New,High,1,0,0,0,0,8.3,4,1,0
+L0462,Carsales,25-34,Local,SUV,Used,Low,0,0,1,1,1,11.2,1,29,0
+L0463,Carsales,45-54,Nearby Suburb,SUV,Demo,Low,1,0,1,1,0,10.1,0,21,0
+L0464,Phone,25-34,Nearby Suburb,Ute,New,Medium,0,0,1,0,0,9.7,4,29,1
+L0465,Social Media,35-44,Local,Sedan,Used,Medium,1,1,0,1,1,4.6,2,9,0
+L0466,Walk-in,35-44,Nearby Suburb,SUV,New,Low,1,0,0,1,0,10.1,7,7,0
+L0467,Walk-in,25-34,Nearby Suburb,EV,Used,Low,1,0,0,1,1,15.2,3,38,0
+L0468,Referral,25-34,Nearby Suburb,Hatchback,New,Low,1,0,0,1,0,11.5,1,31,0
+L0469,Website,25-34,Far Suburb,EV,Demo,Medium,0,1,0,1,1,4.3,1,27,1
+L0470,Social Media,18-24,Local,Sedan,Used,High,0,0,1,1,1,10.7,4,42,1
+L0471,Website,18-24,Local,Sedan,Used,High,0,0,1,0,0,10.2,3,32,0
+L0472,Social Media,45-54,Nearby Suburb,Ute,Used,Medium,1,1,1,1,1,7.8,4,5,1
+L0473,Website,25-34,Nearby Suburb,Sedan,Used,Low,1,0,0,1,0,11.6,3,33,0
+L0474,Referral,35-44,Nearby Suburb,Hatchback,Demo,High,0,1,0,1,0,6.3,2,15,1
+L0475,Phone,25-34,Far Suburb,SUV,Used,Medium,1,1,1,1,0,15.6,0,5,0
+L0476,Social Media,55+,Far Suburb,Sedan,Demo,Low,1,0,0,0,0,30.3,1,20,0
+L0477,Website,25-34,Far Suburb,SUV,Used,High,1,1,0,1,1,16.5,3,38,0
+L0478,Phone,35-44,Nearby Suburb,SUV,New,Medium,1,1,0,0,0,5.5,3,37,0
+L0479,Social Media,45-54,Nearby Suburb,SUV,Used,Medium,0,0,0,0,1,15.0,3,17,0
+L0480,Phone,45-54,Local,SUV,New,Medium,0,0,0,0,0,17.5,1,4,0
+L0481,Carsales,25-34,Local,EV,Used,Low,0,1,1,0,0,12.9,6,21,1
+L0482,Carsales,45-54,Nearby Suburb,SUV,Used,Low,0,0,1,1,0,13.8,2,34,0
+L0483,Phone,35-44,Local,Hatchback,Used,Medium,1,1,0,0,0,9.5,2,40,0
+L0484,Carsales,35-44,Far Suburb,Ute,New,Low,1,0,0,0,1,3.8,5,5,0
+L0485,Phone,25-34,Nearby Suburb,Hatchback,New,Medium,1,0,1,1,1,9.0,4,4,1
+L0486,Social Media,18-24,Nearby Suburb,SUV,Used,Medium,1,0,0,0,1,4.9,4,22,0
+L0487,Website,45-54,Local,Hatchback,Demo,Medium,0,0,0,0,1,8.5,2,14,0
+L0488,Walk-in,35-44,Local,Hatchback,New,Medium,0,0,0,0,0,6.7,8,4,0
+L0489,Social Media,35-44,Local,Ute,New,Medium,0,1,0,0,0,4.6,5,8,0
+L0490,Referral,45-54,Local,Ute,Used,High,0,1,1,0,0,22.7,5,3,1
+L0491,Phone,45-54,Local,EV,Used,Medium,0,1,1,0,0,10.0,7,29,0
+L0492,Carsales,25-34,Nearby Suburb,Hatchback,New,Low,0,0,0,1,0,6.9,2,26,0
+L0493,Walk-in,35-44,Far Suburb,SUV,New,Low,0,1,0,0,0,2.5,2,30,0
+L0494,Website,25-34,Far Suburb,Hatchback,New,Low,0,0,0,0,0,17.0,3,12,0
+L0495,Phone,45-54,Nearby Suburb,SUV,Demo,Low,1,1,0,1,0,11.7,6,15,0
+L0496,Walk-in,35-44,Local,Ute,New,Low,0,0,1,0,1,33.0,2,41,1
+L0497,Phone,55+,Far Suburb,SUV,New,Low,0,1,1,1,0,5.9,6,2,1
+L0498,Website,18-24,Far Suburb,SUV,New,Medium,0,1,0,0,0,21.6,6,1,0
+L0499,Social Media,18-24,Local,Ute,New,High,1,0,1,0,0,9.0,4,28,0
+L0500,Social Media,25-34,Nearby Suburb,Hatchback,Used,Low,0,0,1,1,1,5.1,5,40,0
+L0501,Carsales,25-34,Local,Sedan,New,Medium,0,0,1,0,1,7.5,4,35,0
+L0502,Phone,25-34,Far Suburb,Sedan,New,Medium,1,0,0,0,0,10.8,2,34,0
+L0503,Walk-in,55+,Far Suburb,Ute,Used,Low,1,0,0,1,0,6.9,2,4,0
+L0504,Referral,25-34,Local,SUV,New,High,1,0,1,0,1,3.9,6,18,1
+L0505,Carsales,25-34,Far Suburb,Ute,New,Medium,0,0,0,1,0,4.9,5,12,0
+L0506,Website,45-54,Nearby Suburb,SUV,Used,Medium,0,1,1,1,1,14.2,2,21,1
+L0507,Social Media,35-44,Far Suburb,Ute,Used,Medium,0,1,1,0,1,4.4,2,10,0
+L0508,Referral,45-54,Nearby Suburb,Ute,Demo,Low,1,1,1,1,0,6.2,4,21,1
+L0509,Social Media,18-24,Far Suburb,SUV,Demo,Medium,0,1,0,1,0,4.6,3,40,0
+L0510,Carsales,35-44,Local,Sedan,Used,Low,0,0,1,1,0,11.9,3,25,0
+L0511,Carsales,18-24,Local,SUV,New,High,0,0,0,1,0,43.3,6,17,0
+L0512,Walk-in,18-24,Local,Hatchback,Used,Medium,0,1,1,1,1,13.8,3,6,1
+L0513,Social Media,55+,Far Suburb,Sedan,Used,Medium,0,1,0,0,1,5.7,4,14,0
+L0514,Referral,25-34,Far Suburb,Hatchback,Used,Low,1,0,0,1,1,11.9,4,37,0
+L0515,Website,35-44,Far Suburb,SUV,Used,Medium,1,1,1,0,0,5.9,4,40,1
+L0516,Website,25-34,Far Suburb,SUV,New,Medium,0,1,0,0,0,11.2,4,40,0
+L0517,Walk-in,25-34,Local,SUV,Used,Medium,0,1,0,1,0,24.5,5,18,1
+L0518,Referral,55+,Local,SUV,Used,Medium,1,1,1,0,0,9.6,0,30,0
+L0519,Social Media,18-24,Local,Hatchback,Demo,Medium,0,0,0,1,0,12.5,3,9,0
+L0520,Website,35-44,Local,Ute,New,High,0,1,1,0,0,9.9,1,14,1
+L0521,Carsales,55+,Local,Hatchback,New,Medium,0,1,0,1,0,17.9,3,17,0
+L0522,Walk-in,35-44,Nearby Suburb,Sedan,New,High,1,0,1,0,1,15.3,10,34,1
+L0523,Social Media,55+,Local,EV,Used,High,1,1,1,0,0,7.7,3,22,0
+L0524,Referral,18-24,Local,Hatchback,New,Medium,1,0,0,0,1,15.3,3,32,1
+L0525,Referral,25-34,Local,EV,New,Low,0,0,0,1,0,11.2,2,12,0
+L0526,Phone,25-34,Local,Sedan,Demo,Medium,0,0,1,0,0,7.3,2,16,1
+L0527,Walk-in,45-54,Far Suburb,SUV,New,High,1,0,0,1,1,7.3,1,22,1
+L0528,Walk-in,55+,Nearby Suburb,SUV,Used,Low,0,0,0,0,0,11.0,4,38,0
+L0529,Website,25-34,Far Suburb,Hatchback,New,Medium,1,1,1,0,0,12.4,4,39,0
+L0530,Referral,35-44,Local,SUV,Used,High,1,0,0,0,0,8.9,5,2,1
+L0531,Referral,25-34,Local,SUV,Used,Medium,0,0,0,0,0,12.6,6,8,0
+L0532,Social Media,35-44,Nearby Suburb,Sedan,Demo,Medium,1,0,1,1,0,5.5,2,44,1
+L0533,Social Media,35-44,Local,Hatchback,Demo,Low,0,0,0,1,1,4.3,2,1,0
+L0534,Phone,55+,Local,Hatchback,New,Low,1,1,0,0,0,2.9,2,41,0
+L0535,Carsales,35-44,Local,SUV,New,Medium,0,1,0,1,0,14.0,2,40,0
+L0536,Social Media,25-34,Local,Sedan,New,Low,0,1,1,1,1,2.6,1,41,1
+L0537,Referral,18-24,Local,Hatchback,Used,Low,1,0,1,0,0,12.5,2,5,0
+L0538,Website,25-34,Local,EV,Demo,High,1,0,1,0,0,6.9,4,36,0
+L0539,Phone,25-34,Nearby Suburb,Hatchback,Used,Low,0,1,0,1,0,7.9,4,17,0
+L0540,Website,25-34,Local,EV,Used,High,1,1,0,0,0,8.0,3,41,0
+L0541,Social Media,45-54,Local,Ute,New,High,0,0,0,0,0,38.6,2,30,0
+L0542,Carsales,35-44,Far Suburb,Hatchback,Used,Low,0,1,0,0,0,6.3,2,15,0
+L0543,Website,35-44,Local,SUV,Demo,Low,0,1,1,1,0,4.8,2,20,1
+L0544,Carsales,18-24,Local,Hatchback,New,Medium,0,1,0,0,1,29.3,1,36,0
+L0545,Carsales,45-54,Far Suburb,Hatchback,Used,Medium,0,0,0,0,1,3.2,2,2,1
+L0546,Walk-in,45-54,Local,Hatchback,New,Low,0,1,0,0,0,3.8,3,4,1
+L0547,Website,18-24,Local,Sedan,Used,Medium,0,0,1,0,0,17.2,2,24,0
+L0548,Carsales,45-54,Nearby Suburb,Sedan,Used,Low,0,0,1,0,0,12.8,3,42,0
+L0549,Phone,35-44,Local,SUV,New,High,0,0,1,1,0,7.3,5,2,0
+L0550,Carsales,18-24,Nearby Suburb,Sedan,New,Low,1,0,1,0,1,4.4,5,2,1
+L0551,Phone,35-44,Far Suburb,SUV,New,Low,0,0,0,1,0,1.6,1,1,0
+L0552,Referral,35-44,Local,Ute,Used,Low,1,0,0,0,0,25.3,3,13,0
+L0553,Phone,25-34,Nearby Suburb,SUV,Used,High,1,1,0,1,0,15.4,6,6,1
+L0554,Phone,55+,Nearby Suburb,SUV,New,Medium,1,1,1,1,0,23.6,3,22,1
+L0555,Referral,45-54,Local,Sedan,Used,High,1,1,1,0,0,19.2,3,17,1
+L0556,Walk-in,35-44,Nearby Suburb,Hatchback,Used,Medium,1,0,0,1,1,13.2,1,22,1
+L0557,Website,35-44,Local,Sedan,New,Low,0,0,1,0,1,6.2,2,43,0
+L0558,Website,25-34,Nearby Suburb,SUV,New,Low,0,1,1,1,1,4.4,0,6,1
+L0559,Carsales,35-44,Local,Hatchback,Used,Medium,1,0,1,0,1,20.4,2,3,0
+L0560,Carsales,35-44,Nearby Suburb,SUV,Demo,Medium,1,1,1,1,1,7.0,4,6,1
+L0561,Carsales,18-24,Local,EV,New,Medium,1,1,1,1,0,4.6,5,17,1
+L0562,Website,35-44,Far Suburb,EV,New,Low,0,0,0,1,0,5.9,6,35,0
+L0563,Website,45-54,Local,Sedan,New,High,1,1,1,1,1,21.3,6,37,1
+L0564,Website,35-44,Local,SUV,Used,Low,0,1,1,0,0,5.0,6,35,0
+L0565,Walk-in,18-24,Nearby Suburb,Ute,New,High,0,0,0,1,0,7.3,3,23,0
+L0566,Phone,45-54,Nearby Suburb,SUV,New,Low,0,0,1,1,0,9.0,3,8,0
+L0567,Walk-in,25-34,Nearby Suburb,Sedan,Used,Medium,1,0,1,1,0,11.4,5,7,1
+L0568,Phone,25-34,Nearby Suburb,SUV,Used,Low,1,0,0,0,0,4.7,2,10,0
+L0569,Social Media,25-34,Nearby Suburb,EV,New,Medium,0,0,1,1,0,8.8,4,26,0
+L0570,Walk-in,25-34,Far Suburb,SUV,New,Medium,1,0,0,0,0,17.4,4,10,0
+L0571,Phone,45-54,Local,Hatchback,Used,Medium,0,0,1,1,1,33.1,4,19,0
+L0572,Carsales,35-44,Nearby Suburb,Ute,New,Medium,0,1,1,0,0,4.0,5,23,0
+L0573,Walk-in,25-34,Far Suburb,Sedan,New,Medium,0,0,0,0,1,4.6,4,31,1
+L0574,Carsales,45-54,Far Suburb,SUV,Demo,Medium,0,0,0,1,0,5.1,6,33,0
+L0575,Referral,45-54,Far Suburb,EV,New,High,0,0,1,0,0,14.7,3,2,1
+L0576,Social Media,45-54,Local,Sedan,Used,Low,0,0,0,1,0,4.3,0,28,0
+L0577,Website,25-34,Local,Hatchback,Demo,Medium,1,0,0,1,0,8.6,2,32,0
+L0578,Social Media,35-44,Nearby Suburb,SUV,New,Medium,1,0,0,0,0,8.0,5,33,1
+L0579,Phone,55+,Nearby Suburb,Sedan,New,Medium,0,0,0,0,1,34.9,1,9,0
+L0580,Walk-in,45-54,Nearby Suburb,Sedan,Used,Medium,0,1,0,1,1,6.3,2,29,0
+L0581,Phone,18-24,Nearby Suburb,SUV,Demo,Low,0,1,1,0,1,6.0,7,15,1
+L0582,Social Media,18-24,Far Suburb,SUV,Demo,Low,0,0,1,1,0,14.7,2,18,1
+L0583,Phone,35-44,Local,Ute,Used,Low,0,0,1,1,0,11.9,5,18,0
+L0584,Walk-in,55+,Far Suburb,SUV,New,Low,0,0,1,0,0,5.7,4,7,1
+L0585,Carsales,35-44,Local,SUV,Used,Medium,1,1,0,0,0,22.2,2,14,0
+L0586,Website,35-44,Local,Sedan,New,Medium,1,0,0,0,0,3.1,2,29,1
+L0587,Website,18-24,Nearby Suburb,Ute,Used,High,0,1,0,1,0,9.2,1,19,0
+L0588,Website,35-44,Nearby Suburb,SUV,New,Medium,0,0,1,0,0,7.6,0,5,1
+L0589,Website,45-54,Local,Hatchback,New,Low,0,0,1,0,0,8.7,2,41,1
+L0590,Website,25-34,Local,SUV,Used,High,1,1,1,1,0,5.7,3,5,1
+L0591,Website,45-54,Far Suburb,SUV,Used,High,0,1,1,1,0,8.8,3,15,0
+L0592,Carsales,55+,Local,SUV,New,Medium,0,1,1,0,0,11.0,2,26,0
+L0593,Website,25-34,Nearby Suburb,Ute,New,Medium,1,0,0,0,0,1.0,3,24,0
+L0594,Walk-in,35-44,Nearby Suburb,SUV,Demo,High,0,0,0,1,0,6.7,2,19,0
+L0595,Referral,25-34,Nearby Suburb,SUV,Used,Medium,0,0,0,1,0,5.1,5,20,0
+L0596,Phone,45-54,Nearby Suburb,Sedan,New,High,0,0,0,1,0,28.1,2,43,0
+L0597,Carsales,35-44,Local,Ute,New,Low,0,1,1,1,0,12.9,3,9,0
+L0598,Website,35-44,Nearby Suburb,SUV,New,Low,0,1,0,1,1,4.9,1,28,0
+L0599,Website,45-54,Local,Sedan,Demo,Medium,0,1,0,1,1,6.5,4,16,1
+L0600,Website,25-34,Nearby Suburb,SUV,Used,Medium,0,1,0,1,0,7.8,0,11,0
+L0601,Website,55+,Local,Sedan,Used,High,0,0,0,1,0,6.4,1,34,0
+L0602,Walk-in,35-44,Nearby Suburb,Hatchback,Used,High,1,1,0,1,1,13.6,6,25,1
+L0603,Website,25-34,Local,Hatchback,New,Medium,0,1,0,0,0,25.1,3,40,0
+L0604,Website,45-54,Local,SUV,Used,Low,0,0,0,0,1,0.4,4,21,0
+L0605,Website,45-54,Local,SUV,Used,High,1,1,1,1,0,7.5,5,5,1
+L0606,Phone,25-34,Local,SUV,New,Medium,1,0,0,0,0,33.0,8,11,0
+L0607,Website,45-54,Far Suburb,Sedan,New,Low,1,1,1,1,1,7.7,7,43,0
+L0608,Walk-in,55+,Local,SUV,Used,Medium,0,0,1,0,0,11.4,3,9,0
+L0609,Phone,25-34,Far Suburb,Ute,Demo,Medium,0,0,1,1,0,1.3,3,11,0
+L0610,Carsales,55+,Far Suburb,EV,New,Medium,1,1,1,0,0,22.0,1,37,1
+L0611,Website,25-34,Nearby Suburb,EV,Demo,Medium,1,1,0,1,0,4.0,7,41,0
+L0612,Referral,25-34,Local,Ute,Used,Low,0,0,0,1,1,12.7,8,1,1
+L0613,Carsales,25-34,Local,Hatchback,New,High,1,0,0,0,0,4.6,1,26,0
+L0614,Website,55+,Nearby Suburb,Hatchback,New,Medium,0,0,0,1,0,0.7,5,10,0
+L0615,Referral,35-44,Local,SUV,New,Medium,1,0,1,0,1,11.9,3,40,1
+L0616,Social Media,25-34,Local,Hatchback,Used,Low,1,1,1,0,0,15.6,5,19,1
+L0617,Website,35-44,Nearby Suburb,Sedan,New,Medium,1,1,0,0,0,9.0,2,16,0
+L0618,Walk-in,35-44,Far Suburb,Sedan,New,Low,1,0,0,0,0,3.6,3,37,0
+L0619,Referral,18-24,Nearby Suburb,Ute,Used,Low,1,1,0,1,1,37.1,4,41,0
+L0620,Carsales,45-54,Local,SUV,Used,Medium,0,0,1,0,0,15.2,6,4,0
+L0621,Website,45-54,Nearby Suburb,SUV,New,Low,0,1,1,1,0,10.7,1,14,1
+L0622,Website,35-44,Local,EV,New,Medium,0,0,1,0,1,19.8,7,30,0
+L0623,Walk-in,55+,Local,SUV,Used,Low,0,0,1,1,1,6.4,3,7,0
+L0624,Phone,25-34,Far Suburb,Sedan,Used,Medium,1,1,0,0,1,29.9,4,12,0
+L0625,Carsales,55+,Local,EV,Used,Low,0,0,0,1,0,15.4,6,24,0
+L0626,Walk-in,35-44,Local,Hatchback,New,Low,0,1,0,1,0,18.6,2,39,0
+L0627,Phone,35-44,Local,Sedan,Used,Low,1,1,0,1,0,7.4,0,43,0
+L0628,Carsales,25-34,Far Suburb,SUV,Used,High,1,0,1,0,1,3.9,1,22,0
+L0629,Website,45-54,Nearby Suburb,SUV,Used,High,0,0,0,1,1,10.8,4,30,0
+L0630,Walk-in,35-44,Nearby Suburb,Ute,Used,Low,0,1,1,0,0,6.6,3,39,0
+L0631,Carsales,25-34,Nearby Suburb,Hatchback,New,Medium,0,1,0,0,0,32.1,3,20,0
+L0632,Referral,18-24,Local,Sedan,New,Medium,1,0,0,0,0,3.0,4,26,0
+L0633,Phone,35-44,Nearby Suburb,SUV,Used,High,0,0,0,0,1,23.3,5,5,0
+L0634,Phone,35-44,Local,SUV,Used,Medium,1,1,0,0,0,2.1,1,40,1
+L0635,Website,45-54,Local,EV,Used,Medium,0,0,1,1,0,4.6,7,42,0
+L0636,Phone,55+,Nearby Suburb,Sedan,New,Low,0,0,0,0,0,2.1,6,6,1
+L0637,Phone,18-24,Far Suburb,Hatchback,Demo,Medium,1,0,1,0,0,6.4,2,34,1
+L0638,Website,45-54,Local,SUV,Used,High,0,1,1,0,0,8.1,3,5,0
+L0639,Walk-in,25-34,Local,Hatchback,New,Medium,0,1,0,1,1,5.8,4,10,0
+L0640,Walk-in,45-54,Local,EV,New,Low,0,1,1,1,1,12.7,1,28,0
+L0641,Website,45-54,Local,Hatchback,Used,Low,0,1,0,0,0,8.2,4,3,0
+L0642,Walk-in,35-44,Far Suburb,SUV,Used,Medium,0,1,1,1,0,1.3,7,13,1
+L0643,Website,45-54,Nearby Suburb,Hatchback,Used,Medium,0,0,1,1,1,4.4,1,2,1
+L0644,Walk-in,25-34,Nearby Suburb,Ute,Demo,Medium,0,1,1,0,0,7.3,3,35,0
+L0645,Website,35-44,Nearby Suburb,Sedan,New,High,0,0,0,1,0,19.2,1,28,0
+L0646,Referral,45-54,Local,Ute,New,Low,1,1,0,1,1,10.3,4,37,1
+L0647,Carsales,35-44,Nearby Suburb,Hatchback,Demo,Low,1,0,0,1,1,6.6,4,23,0
+L0648,Carsales,25-34,Local,Ute,Demo,High,0,0,0,0,1,2.7,2,43,1
+L0649,Carsales,35-44,Nearby Suburb,Hatchback,Used,Low,1,1,1,0,0,10.6,6,23,1
+L0650,Phone,45-54,Far Suburb,SUV,Demo,Low,0,1,1,0,0,22.2,3,35,0
+L0651,Website,25-34,Nearby Suburb,SUV,New,Medium,0,0,0,1,0,7.5,4,41,0
+L0652,Phone,25-34,Local,SUV,Demo,High,0,0,0,1,0,4.7,2,39,0
+L0653,Phone,45-54,Far Suburb,EV,New,Low,0,0,0,0,1,14.0,5,32,0
+L0654,Carsales,45-54,Local,Ute,New,High,0,0,0,0,0,19.7,3,2,0
+L0655,Phone,18-24,Local,Hatchback,New,Medium,0,1,0,1,1,8.3,4,44,1
+L0656,Website,25-34,Local,SUV,New,Low,1,0,0,1,0,15.1,3,16,0
+L0657,Walk-in,25-34,Local,SUV,New,Medium,1,1,1,1,0,6.9,3,16,1
+L0658,Walk-in,25-34,Nearby Suburb,Ute,New,Medium,0,0,0,1,1,15.6,6,3,0
+L0659,Carsales,35-44,Nearby Suburb,Sedan,New,Medium,1,1,0,1,0,22.9,1,28,1
+L0660,Phone,45-54,Far Suburb,SUV,New,Medium,1,1,1,0,0,17.2,4,29,0
+L0661,Walk-in,35-44,Nearby Suburb,Hatchback,Used,High,1,0,0,0,0,13.6,1,20,0
+L0662,Social Media,35-44,Nearby Suburb,SUV,New,Low,0,0,1,0,0,27.9,1,36,0
+L0663,Carsales,25-34,Local,SUV,New,Medium,0,1,1,1,0,7.8,4,33,0
+L0664,Website,45-54,Local,Sedan,Used,Medium,0,1,1,0,0,13.6,3,22,0
+L0665,Website,35-44,Nearby Suburb,SUV,Demo,Medium,0,0,0,0,0,8.0,1,8,0
+L0666,Website,55+,Local,EV,Used,Medium,1,0,0,0,1,13.6,2,24,0
+L0667,Website,35-44,Far Suburb,SUV,New,Low,0,0,1,0,0,15.2,2,37,0
+L0668,Website,25-34,Local,SUV,Used,Medium,0,0,1,1,0,17.9,2,20,0
+L0669,Website,35-44,Local,SUV,New,Medium,1,0,0,0,0,9.8,3,12,1
+L0670,Walk-in,25-34,Local,Ute,New,Low,1,0,0,0,0,1.8,4,20,0
+L0671,Website,35-44,Local,Sedan,New,High,0,1,0,1,0,8.1,7,20,0
+L0672,Referral,18-24,Local,Hatchback,Used,High,1,1,0,0,0,14.9,2,4,1
+L0673,Website,25-34,Nearby Suburb,SUV,New,Medium,0,1,1,1,0,11.9,7,30,0
+L0674,Phone,45-54,Local,SUV,New,Low,0,1,0,1,1,13.1,0,31,1
+L0675,Walk-in,25-34,Nearby Suburb,Sedan,New,Medium,0,1,0,1,1,15.9,3,22,0
+L0676,Social Media,45-54,Local,Ute,Demo,Low,1,0,1,1,1,3.9,6,15,1
+L0677,Website,25-34,Local,Ute,Used,Low,1,0,0,0,0,16.4,2,38,0
+L0678,Walk-in,35-44,Local,SUV,New,Medium,0,1,1,1,0,28.8,1,37,0
+L0679,Social Media,45-54,Far Suburb,Sedan,Used,Low,0,1,1,0,1,7.3,2,28,0
+L0680,Referral,35-44,Local,EV,Used,Low,0,0,0,0,0,18.1,6,11,0
+L0681,Referral,25-34,Nearby Suburb,Sedan,Used,Low,0,1,1,0,1,10.2,3,14,0
+L0682,Walk-in,25-34,Local,Ute,New,Low,0,1,1,0,0,12.8,2,11,0
+L0683,Website,18-24,Nearby Suburb,SUV,Demo,Low,0,1,0,1,0,17.0,6,9,1
+L0684,Carsales,25-34,Local,EV,New,High,1,0,0,0,1,11.8,3,24,0
+L0685,Social Media,35-44,Nearby Suburb,Ute,Used,Low,1,1,0,1,1,7.0,1,10,0
+L0686,Phone,55+,Nearby Suburb,EV,New,Low,0,1,1,0,1,12.2,3,38,0
+L0687,Phone,45-54,Far Suburb,Hatchback,New,Low,0,0,1,0,1,4.7,4,43,0
+L0688,Walk-in,45-54,Local,Sedan,New,High,0,1,0,1,0,2.7,5,41,1
+L0689,Carsales,45-54,Local,EV,Used,Medium,0,0,1,0,0,23.9,5,37,1
+L0690,Website,35-44,Local,SUV,New,Medium,1,1,0,1,1,13.3,1,42,0
+L0691,Walk-in,25-34,Far Suburb,SUV,Used,High,1,0,1,0,0,15.3,2,32,1
+L0692,Walk-in,55+,Nearby Suburb,Hatchback,New,Medium,0,0,1,0,0,11.3,7,20,1
+L0693,Phone,35-44,Nearby Suburb,Ute,Used,Low,0,0,0,0,0,2.2,3,14,0
+L0694,Website,35-44,Local,EV,Used,Low,1,1,1,1,0,22.8,3,38,1
+L0695,Website,18-24,Local,SUV,Used,Medium,0,0,1,0,0,7.0,2,4,1
+L0696,Carsales,35-44,Local,Ute,Used,Low,1,0,1,0,0,8.1,2,24,0
+L0697,Walk-in,35-44,Far Suburb,Ute,Used,Medium,0,1,0,0,1,21.1,2,32,0
+L0698,Phone,45-54,Nearby Suburb,SUV,New,Low,1,0,1,1,0,4.6,4,10,1
+L0699,Website,35-44,Far Suburb,Sedan,Used,Medium,0,0,1,1,0,7.6,6,43,0
+L0700,Phone,25-34,Local,SUV,New,Low,1,1,0,1,0,7.2,10,16,1
+L0701,Phone,55+,Nearby Suburb,SUV,Used,Low,1,0,0,0,0,4.5,3,39,0
+L0702,Website,18-24,Nearby Suburb,EV,Used,Medium,0,0,0,1,0,10.3,3,32,0
+L0703,Walk-in,35-44,Local,Hatchback,New,High,1,0,1,1,0,5.1,2,18,1
+L0704,Website,18-24,Far Suburb,Hatchback,New,Medium,1,1,1,1,0,23.5,2,25,1
+L0705,Website,45-54,Far Suburb,EV,Used,Medium,0,1,0,1,0,2.5,6,7,1
+L0706,Social Media,55+,Far Suburb,Sedan,Used,Low,0,1,1,1,0,3.4,1,18,0
+L0707,Walk-in,25-34,Nearby Suburb,Ute,Demo,Low,0,1,0,0,0,7.5,4,18,1
+L0708,Referral,45-54,Local,Sedan,Used,Low,0,0,1,1,0,9.5,6,3,0
+L0709,Walk-in,25-34,Local,Ute,Used,Low,0,0,0,1,0,5.7,2,1,1
+L0710,Carsales,55+,Far Suburb,SUV,Demo,Low,1,0,0,0,0,16.0,3,33,0
+L0711,Carsales,45-54,Local,EV,New,Low,0,0,0,0,0,8.4,1,7,0
+L0712,Carsales,45-54,Nearby Suburb,SUV,New,Medium,1,1,0,1,1,13.8,5,10,1
+L0713,Phone,18-24,Nearby Suburb,SUV,Used,Low,0,1,1,0,0,22.4,1,44,0
+L0714,Walk-in,55+,Nearby Suburb,Ute,Used,Medium,0,0,0,1,1,27.3,3,8,1
+L0715,Walk-in,45-54,Far Suburb,Sedan,Demo,Medium,0,1,0,0,0,7.7,3,32,0
+L0716,Social Media,25-34,Local,Hatchback,New,Medium,0,0,0,0,1,10.3,4,23,0
+L0717,Referral,45-54,Local,Sedan,New,Medium,0,0,0,0,0,11.8,2,17,0
+L0718,Social Media,25-34,Local,Ute,New,Low,0,1,1,0,1,7.9,2,14,0
+L0719,Website,45-54,Local,SUV,New,Low,0,0,1,0,0,4.3,4,17,0
+L0720,Carsales,18-24,Local,SUV,New,Medium,1,0,0,0,1,18.9,0,25,1
+L0721,Social Media,45-54,Local,SUV,Used,High,1,0,0,1,0,4.3,3,21,0
+L0722,Website,35-44,Far Suburb,Sedan,New,Low,0,0,0,1,0,20.1,3,6,0
+L0723,Website,18-24,Far Suburb,SUV,Used,Low,1,1,1,0,1,13.1,7,20,1
+L0724,Carsales,25-34,Local,Sedan,New,High,1,1,1,1,0,11.5,3,20,0
+L0725,Phone,18-24,Local,Sedan,Used,Low,0,0,1,1,1,5.4,2,26,1
+L0726,Referral,35-44,Far Suburb,SUV,New,Medium,1,0,1,1,0,1.6,2,32,1
+L0727,Website,25-34,Local,Hatchback,New,Medium,1,1,1,1,0,18.6,1,8,1
+L0728,Referral,35-44,Local,Ute,New,Low,0,1,1,0,1,5.3,1,44,0
+L0729,Website,25-34,Local,SUV,Demo,Medium,0,0,0,0,0,13.7,3,29,0
+L0730,Website,25-34,Nearby Suburb,Hatchback,Used,Medium,0,0,0,0,0,14.2,2,17,0
+L0731,Website,45-54,Local,Hatchback,Used,Low,0,1,0,0,1,9.6,3,18,0
+L0732,Referral,18-24,Far Suburb,Sedan,New,Medium,1,0,0,1,1,11.6,6,40,0
+L0733,Carsales,55+,Local,Hatchback,Demo,Medium,0,0,1,0,1,13.0,2,18,1
+L0734,Phone,45-54,Nearby Suburb,Sedan,New,Medium,1,1,0,1,0,10.9,3,11,0
+L0735,Walk-in,35-44,Local,Sedan,New,Low,1,0,0,1,0,4.9,2,12,1
+L0736,Referral,35-44,Nearby Suburb,SUV,Used,Medium,1,0,0,1,0,2.6,3,15,1
+L0737,Walk-in,55+,Nearby Suburb,Hatchback,Demo,Medium,1,0,0,1,0,5.7,1,26,1
+L0738,Referral,25-34,Nearby Suburb,Hatchback,New,Medium,0,1,1,0,1,7.2,1,3,0
+L0739,Phone,18-24,Nearby Suburb,SUV,New,Medium,0,0,1,1,0,23.2,1,3,0
+L0740,Walk-in,25-34,Nearby Suburb,Sedan,Demo,Low,1,0,1,0,0,3.6,1,38,0
+L0741,Phone,45-54,Far Suburb,EV,New,Medium,0,0,1,1,0,25.3,3,35,0
+L0742,Walk-in,18-24,Far Suburb,Sedan,New,Medium,0,1,1,1,0,30.6,6,9,1
+L0743,Carsales,35-44,Nearby Suburb,Sedan,Used,Low,1,0,0,1,1,5.9,5,43,0
+L0744,Phone,55+,Local,EV,Demo,Medium,1,0,0,0,0,30.0,3,40,0
+L0745,Website,45-54,Local,Hatchback,Used,Low,0,0,1,1,0,8.6,3,4,1
+L0746,Referral,35-44,Local,Hatchback,Demo,Medium,1,1,0,0,1,7.6,4,20,0
+L0747,Walk-in,18-24,Nearby Suburb,Ute,Used,Low,1,0,0,0,0,23.2,2,15,0
+L0748,Phone,45-54,Local,Ute,New,Medium,0,0,1,1,0,11.2,3,29,0
+L0749,Social Media,35-44,Local,Sedan,Demo,High,0,0,0,0,0,10.1,5,5,0
+L0750,Carsales,18-24,Far Suburb,Sedan,New,Medium,1,1,0,1,0,5.7,6,39,1
+L0751,Website,18-24,Far Suburb,Sedan,New,High,0,0,0,0,0,6.1,1,40,0
+L0752,Social Media,55+,Far Suburb,EV,Used,High,0,1,0,1,1,10.3,4,7,1
+L0753,Carsales,35-44,Local,Hatchback,New,Low,0,1,0,0,0,23.2,3,8,0
+L0754,Walk-in,45-54,Nearby Suburb,SUV,New,Medium,1,1,0,1,0,3.6,4,32,0
+L0755,Website,45-54,Local,Ute,New,Medium,0,0,1,1,1,9.0,2,36,1
+L0756,Referral,35-44,Local,Sedan,New,High,0,1,1,1,1,3.0,5,33,1
+L0757,Carsales,35-44,Local,SUV,Used,Low,0,0,0,0,0,5.4,1,37,0
+L0758,Phone,35-44,Local,Sedan,Used,High,1,0,1,1,0,15.0,4,32,1
+L0759,Referral,25-34,Local,Sedan,Demo,Medium,0,1,0,0,0,4.6,5,43,1
+L0760,Carsales,35-44,Far Suburb,Ute,New,Medium,1,0,0,0,0,19.5,1,36,0
+L0761,Website,45-54,Local,SUV,New,Low,1,0,0,0,0,4.6,1,34,0
+L0762,Walk-in,35-44,Nearby Suburb,Ute,New,Low,0,0,1,1,0,6.2,4,25,1
+L0763,Website,55+,Nearby Suburb,Hatchback,New,Medium,1,0,0,0,0,1.8,1,44,0
+L0764,Carsales,35-44,Local,SUV,New,Low,1,0,1,1,0,19.5,4,32,0
+L0765,Website,35-44,Nearby Suburb,EV,Used,High,1,1,1,1,0,17.7,3,2,1
+L0766,Phone,35-44,Local,Sedan,Demo,Low,0,1,0,0,0,3.1,4,9,1
+L0767,Carsales,35-44,Nearby Suburb,SUV,Demo,Medium,1,1,1,1,0,7.7,5,38,1
+L0768,Referral,45-54,Local,Sedan,New,Medium,1,0,1,0,0,7.2,4,29,1
+L0769,Walk-in,25-34,Local,Ute,Demo,Medium,1,1,0,1,0,6.7,3,38,1
+L0770,Referral,35-44,Local,SUV,New,Medium,0,0,0,0,0,30.8,5,18,0
+L0771,Website,18-24,Nearby Suburb,SUV,New,Low,1,0,1,1,0,6.6,6,22,0
+L0772,Referral,25-34,Far Suburb,SUV,Demo,Low,0,0,1,0,0,4.8,4,35,1
+L0773,Website,35-44,Local,SUV,Used,Low,0,0,0,0,0,2.0,2,15,1
+L0774,Walk-in,35-44,Nearby Suburb,Ute,New,Medium,0,0,0,0,1,5.0,1,7,0
+L0775,Referral,55+,Nearby Suburb,Sedan,New,Medium,1,0,0,0,1,23.1,1,13,1
+L0776,Website,35-44,Far Suburb,SUV,New,Medium,0,0,0,0,0,11.1,1,42,0
+L0777,Website,45-54,Far Suburb,SUV,Used,Medium,0,0,0,0,1,11.1,2,36,0
+L0778,Carsales,35-44,Nearby Suburb,SUV,Used,Medium,1,0,1,0,0,5.3,2,16,0
+L0779,Carsales,35-44,Nearby Suburb,EV,Demo,Medium,0,1,1,1,0,20.8,3,41,0
+L0780,Carsales,18-24,Far Suburb,SUV,New,Low,1,1,0,1,1,13.8,5,21,0
+L0781,Carsales,25-34,Local,EV,New,Low,0,0,1,1,0,6.8,4,28,1
+L0782,Phone,25-34,Local,Sedan,Used,High,0,0,1,1,0,4.3,2,10,1
+L0783,Walk-in,35-44,Local,SUV,Used,High,1,1,0,1,0,9.0,4,19,1
+L0784,Walk-in,18-24,Far Suburb,Ute,New,Low,1,0,0,1,0,4.6,3,17,1
+L0785,Website,25-34,Far Suburb,Sedan,Used,Medium,0,1,0,0,0,8.2,1,1,1
+L0786,Social Media,25-34,Local,Hatchback,Demo,High,1,0,1,1,0,10.4,2,13,1
+L0787,Phone,55+,Nearby Suburb,EV,Demo,Medium,0,1,0,0,0,5.5,1,36,0
+L0788,Walk-in,25-34,Nearby Suburb,SUV,Used,Low,0,0,1,1,0,0.9,3,42,1
+L0789,Phone,35-44,Local,SUV,Demo,Low,0,0,0,1,0,12.7,4,20,0
+L0790,Social Media,25-34,Far Suburb,Hatchback,Used,Medium,0,1,0,0,1,5.6,7,41,0
+L0791,Website,35-44,Local,SUV,Used,High,0,0,0,1,1,10.3,4,40,0
+L0792,Phone,25-34,Local,SUV,New,Medium,0,0,0,0,0,8.5,2,6,1
+L0793,Phone,25-34,Nearby Suburb,SUV,New,Low,0,0,1,0,0,27.5,2,23,0
+L0794,Carsales,35-44,Nearby Suburb,SUV,New,Low,0,1,1,0,1,9.6,3,42,0
+L0795,Website,18-24,Local,Ute,Used,Medium,0,0,0,1,0,17.5,3,24,0
+L0796,Referral,18-24,Nearby Suburb,SUV,New,High,1,0,1,1,0,7.1,1,5,1
+L0797,Social Media,25-34,Nearby Suburb,Sedan,Demo,Medium,1,0,1,1,0,4.6,3,32,1
+L0798,Phone,18-24,Local,Hatchback,New,Medium,1,0,0,0,1,13.1,3,17,1
+L0799,Carsales,18-24,Local,Sedan,New,Low,0,1,1,1,0,5.3,3,11,1
+L0800,Social Media,25-34,Nearby Suburb,SUV,Used,High,1,0,0,1,0,15.5,3,27,0
+L0801,Carsales,45-54,Local,Ute,New,Medium,1,0,0,0,0,3.4,3,4,0
+L0802,Website,35-44,Far Suburb,SUV,New,Low,0,0,0,1,0,12.0,5,23,0
+L0803,Phone,35-44,Far Suburb,Ute,New,Medium,0,0,1,0,0,9.4,3,23,1
+L0804,Carsales,25-34,Far Suburb,Ute,Used,Low,1,0,0,0,0,24.1,2,34,0
+L0805,Walk-in,55+,Local,Sedan,New,Low,1,0,1,0,0,12.8,4,21,1
+L0806,Carsales,25-34,Far Suburb,Sedan,Used,Low,1,0,1,1,0,8.6,3,22,0
+L0807,Social Media,18-24,Local,Sedan,Used,Low,1,1,0,0,0,16.3,1,1,0
+L0808,Social Media,35-44,Local,Sedan,New,Low,1,0,0,0,1,0.9,1,32,0
+L0809,Phone,18-24,Local,Ute,New,Medium,1,1,0,0,1,13.9,4,28,1
+L0810,Website,25-34,Local,Ute,New,Medium,0,0,1,0,0,14.8,3,18,0
+L0811,Social Media,35-44,Nearby Suburb,SUV,Used,Medium,0,0,0,0,0,15.9,2,7,0
+L0812,Referral,45-54,Nearby Suburb,Hatchback,New,Low,1,0,1,0,0,15.1,5,38,0
+L0813,Website,35-44,Local,EV,New,Low,0,0,0,1,0,13.5,7,6,0
+L0814,Social Media,45-54,Nearby Suburb,EV,Used,Medium,1,1,0,0,0,7.3,1,14,0
+L0815,Referral,55+,Local,Sedan,Used,Medium,1,1,0,1,0,10.6,4,30,1
+L0816,Phone,25-34,Nearby Suburb,Sedan,New,Low,1,1,0,1,0,5.9,2,44,0
+L0817,Carsales,25-34,Local,SUV,New,High,1,0,1,0,0,4.9,3,14,1
+L0818,Walk-in,25-34,Far Suburb,EV,Demo,Medium,0,0,1,0,1,7.5,2,44,1
+L0819,Website,35-44,Far Suburb,SUV,Demo,High,0,0,0,1,0,8.3,0,41,0
+L0820,Walk-in,25-34,Nearby Suburb,Hatchback,Used,Medium,0,1,0,0,0,12.4,3,9,0
+L0821,Referral,55+,Local,SUV,Used,Low,1,0,0,0,0,21.7,4,31,0
+L0822,Website,45-54,Local,SUV,Used,Medium,1,0,0,0,1,17.3,0,2,0
+L0823,Walk-in,35-44,Far Suburb,Sedan,Demo,Low,1,0,0,1,1,11.7,0,18,1
+L0824,Walk-in,25-34,Local,EV,Demo,Medium,0,0,1,1,0,20.0,1,5,1
+L0825,Phone,45-54,Local,SUV,New,Low,0,1,1,1,0,9.6,3,26,0
+L0826,Social Media,55+,Local,Hatchback,Used,High,1,0,0,1,0,13.7,1,23,0
+L0827,Walk-in,45-54,Nearby Suburb,SUV,New,Low,0,0,1,0,0,7.3,2,12,0
+L0828,Walk-in,18-24,Nearby Suburb,SUV,New,High,0,0,0,0,0,9.4,5,14,0
+L0829,Carsales,35-44,Far Suburb,Sedan,Used,High,1,1,0,0,0,7.8,3,13,0
+L0830,Phone,18-24,Local,Sedan,New,Medium,1,0,0,0,0,2.4,5,35,1
+L0831,Website,25-34,Local,SUV,Demo,Medium,0,1,0,0,1,2.4,3,15,0
+L0832,Phone,18-24,Far Suburb,SUV,New,Medium,1,0,0,0,0,3.1,5,35,1
+L0833,Website,35-44,Far Suburb,SUV,Used,High,0,1,0,0,0,11.7,4,19,1
+L0834,Website,35-44,Local,SUV,Demo,Medium,1,1,0,0,0,22.1,7,15,0
+L0835,Phone,18-24,Nearby Suburb,EV,Demo,Medium,0,0,0,0,1,20.0,2,8,0
+L0836,Walk-in,25-34,Local,EV,New,Medium,0,0,1,1,0,13.8,4,23,1
+L0837,Social Media,35-44,Far Suburb,SUV,New,High,1,0,1,1,1,6.4,2,13,1
+L0838,Walk-in,25-34,Local,Hatchback,Used,Medium,0,0,0,1,0,4.8,3,23,1
+L0839,Phone,25-34,Far Suburb,EV,New,Medium,1,1,0,0,1,10.3,2,31,0
+L0840,Carsales,25-34,Nearby Suburb,SUV,Demo,Medium,1,0,0,0,1,6.3,1,30,0
+L0841,Website,45-54,Nearby Suburb,Ute,Demo,High,1,0,1,0,0,2.8,8,42,0
+L0842,Carsales,18-24,Local,EV,New,Medium,1,0,0,0,1,4.2,2,2,1
+L0843,Website,18-24,Nearby Suburb,SUV,New,Low,0,0,0,0,0,7.3,1,11,0
+L0844,Social Media,25-34,Local,SUV,New,Medium,1,1,0,1,0,21.6,5,25,1
+L0845,Website,55+,Local,EV,Demo,High,0,0,0,1,0,2.1,3,29,0
+L0846,Walk-in,35-44,Nearby Suburb,Sedan,New,Medium,0,1,0,0,0,3.5,1,22,1
+L0847,Website,35-44,Far Suburb,SUV,New,High,1,1,1,0,1,7.7,1,19,0
+L0848,Social Media,25-34,Nearby Suburb,SUV,New,Low,0,0,1,0,1,5.2,3,9,0
+L0849,Phone,35-44,Nearby Suburb,Sedan,Used,Medium,1,0,0,0,0,12.7,5,41,0
+L0850,Carsales,18-24,Local,Hatchback,New,Medium,0,1,0,0,0,7.9,1,38,0
+L0851,Website,35-44,Local,Ute,New,High,1,0,0,0,0,2.8,1,29,1
+L0852,Carsales,55+,Local,EV,Demo,Low,1,0,0,0,0,6.4,4,10,0
+L0853,Website,35-44,Nearby Suburb,SUV,Demo,High,0,0,1,0,0,10.6,5,22,1
+L0854,Referral,45-54,Far Suburb,Sedan,Used,Medium,1,0,0,0,1,14.8,5,24,0
+L0855,Website,45-54,Nearby Suburb,Sedan,New,Low,1,1,0,0,0,3.4,6,8,1
+L0856,Website,25-34,Local,Sedan,New,Low,0,0,0,0,0,11.1,4,6,0
+L0857,Website,55+,Local,SUV,Used,Low,0,0,1,1,1,7.4,0,7,0
+L0858,Phone,18-24,Nearby Suburb,EV,New,Medium,1,1,1,0,0,19.9,2,20,0
+L0859,Phone,35-44,Local,Ute,Demo,Low,0,1,0,1,0,6.4,3,17,1
+L0860,Website,25-34,Far Suburb,Sedan,Used,Low,0,0,0,1,0,2.9,5,36,0
+L0861,Carsales,18-24,Far Suburb,Hatchback,New,High,1,1,0,1,0,5.5,1,8,1
+L0862,Phone,35-44,Nearby Suburb,SUV,Demo,Low,0,0,1,1,1,1.5,4,13,1
+L0863,Phone,25-34,Local,Sedan,Demo,Low,1,1,0,1,0,1.7,3,24,1
+L0864,Phone,35-44,Local,Hatchback,New,Medium,1,0,0,1,0,2.1,3,31,0
+L0865,Walk-in,35-44,Local,Sedan,Used,Medium,1,0,0,0,0,12.8,7,23,0
+L0866,Phone,18-24,Local,EV,New,Medium,0,1,1,0,0,11.8,5,17,0
+L0867,Website,25-34,Local,Hatchback,New,Medium,0,0,0,1,1,13.2,1,24,0
+L0868,Website,35-44,Nearby Suburb,Sedan,New,Medium,0,1,0,1,1,5.9,3,43,1
+L0869,Referral,25-34,Nearby Suburb,Ute,Used,Medium,1,0,1,1,1,4.3,5,10,1
+L0870,Social Media,45-54,Local,SUV,Demo,Low,0,1,1,1,0,34.0,5,31,0
+L0871,Walk-in,35-44,Local,Sedan,Used,Low,0,1,1,1,0,10.2,6,20,1
+L0872,Walk-in,45-54,Local,SUV,New,Medium,0,0,1,1,0,3.9,2,16,1
+L0873,Carsales,45-54,Local,Sedan,Used,Medium,0,1,0,1,0,23.5,4,14,0
+L0874,Walk-in,35-44,Far Suburb,Ute,New,Medium,0,0,0,1,0,21.3,6,3,0
+L0875,Website,35-44,Local,Sedan,Demo,Medium,1,1,1,1,0,14.2,1,30,0
+L0876,Website,25-34,Local,Ute,New,Medium,0,0,0,1,1,8.2,1,18,0
+L0877,Carsales,25-34,Local,Hatchback,New,Low,0,1,1,1,0,4.8,1,6,0
+L0878,Carsales,45-54,Far Suburb,SUV,New,Low,0,0,1,1,0,6.6,3,20,0
+L0879,Website,35-44,Nearby Suburb,Ute,Used,Medium,1,0,0,0,0,19.4,4,35,0
+L0880,Website,45-54,Local,SUV,New,Medium,1,0,0,0,0,5.3,2,19,0
+L0881,Website,45-54,Nearby Suburb,SUV,Used,Medium,0,0,1,1,0,3.3,2,26,1
+L0882,Carsales,45-54,Nearby Suburb,Sedan,New,Low,1,1,1,1,0,14.0,3,35,1
+L0883,Website,55+,Far Suburb,SUV,New,Medium,0,0,0,0,0,9.0,5,12,0
+L0884,Website,35-44,Local,SUV,Used,High,1,1,0,0,0,5.5,5,8,0
+L0885,Referral,25-34,Far Suburb,Hatchback,Demo,Low,0,0,0,1,1,5.9,2,37,1
+L0886,Website,35-44,Far Suburb,Sedan,Demo,Medium,1,0,0,1,0,1.3,5,10,1
+L0887,Carsales,25-34,Far Suburb,Sedan,New,High,1,0,0,1,0,6.2,1,21,1
+L0888,Website,35-44,Nearby Suburb,EV,New,Low,1,1,0,1,0,18.3,1,41,0
+L0889,Website,45-54,Nearby Suburb,Hatchback,New,Medium,0,1,1,0,0,4.3,4,42,1
+L0890,Website,35-44,Local,Ute,Used,Low,0,0,1,0,1,37.5,3,29,0
+L0891,Carsales,25-34,Nearby Suburb,SUV,Used,Medium,1,0,1,0,0,9.1,4,31,0
+L0892,Referral,25-34,Nearby Suburb,Hatchback,Demo,Low,0,0,0,1,0,2.6,4,40,0
+L0893,Referral,35-44,Nearby Suburb,Ute,Demo,High,1,1,0,0,1,10.9,5,7,1
+L0894,Walk-in,25-34,Local,Hatchback,New,Medium,1,0,1,1,0,4.3,0,34,0
+L0895,Carsales,55+,Nearby Suburb,Hatchback,Used,Medium,1,1,0,1,0,14.3,6,34,1
+L0896,Website,25-34,Far Suburb,Sedan,Demo,Medium,0,0,0,1,0,20.3,3,30,0
+L0897,Walk-in,25-34,Local,SUV,Used,Medium,1,1,0,1,0,16.2,4,4,1
+L0898,Referral,18-24,Far Suburb,Sedan,New,Medium,1,1,1,0,1,16.0,1,41,0
+L0899,Website,35-44,Nearby Suburb,Sedan,New,High,1,0,1,1,0,6.7,1,30,1
+L0900,Website,35-44,Far Suburb,Ute,New,High,0,0,0,0,0,4.4,3,25,0
+L0901,Website,25-34,Local,SUV,New,Medium,0,0,1,0,0,13.1,6,14,0
+L0902,Website,18-24,Local,EV,New,High,0,0,0,0,0,4.7,6,24,0
+L0903,Website,25-34,Far Suburb,EV,New,Medium,0,1,0,0,0,6.8,2,43,0
+L0904,Phone,25-34,Local,SUV,Used,Medium,1,0,1,1,0,4.9,7,31,1
+L0905,Walk-in,35-44,Far Suburb,SUV,New,Medium,1,1,1,1,0,5.4,1,39,1
+L0906,Referral,35-44,Nearby Suburb,Ute,New,Low,0,0,1,0,0,13.9,2,28,0
+L0907,Referral,25-34,Nearby Suburb,EV,New,Low,1,0,0,0,1,5.1,4,25,0
+L0908,Walk-in,25-34,Local,Sedan,Used,Low,0,0,1,1,0,14.0,3,19,1
+L0909,Walk-in,55+,Nearby Suburb,SUV,Demo,Medium,0,0,1,1,0,20.2,7,4,1
+L0910,Walk-in,35-44,Local,Sedan,Used,Medium,0,0,1,0,0,6.1,2,34,0
+L0911,Carsales,35-44,Local,Hatchback,New,Medium,0,0,0,1,1,3.8,1,32,1
+L0912,Walk-in,25-34,Local,SUV,Demo,High,1,0,1,1,1,17.6,1,25,1
+L0913,Carsales,35-44,Local,Ute,New,Medium,0,0,1,1,1,11.4,6,22,1
+L0914,Walk-in,18-24,Far Suburb,SUV,New,Medium,1,0,0,0,0,5.0,1,28,0
+L0915,Phone,35-44,Far Suburb,SUV,New,Low,0,0,1,1,1,7.1,1,18,1
+L0916,Phone,55+,Local,Sedan,New,Low,1,0,0,1,0,12.0,1,7,0
+L0917,Walk-in,25-34,Nearby Suburb,Sedan,New,Medium,0,1,0,1,0,2.3,3,11,1
+L0918,Social Media,18-24,Local,SUV,Demo,Medium,0,0,1,1,0,25.8,4,42,0
+L0919,Carsales,18-24,Nearby Suburb,Sedan,Used,Medium,0,1,0,1,1,16.7,2,11,1
+L0920,Website,25-34,Far Suburb,SUV,New,Low,0,0,0,0,1,9.3,3,9,0
+L0921,Referral,25-34,Far Suburb,SUV,Demo,Medium,0,1,1,1,1,24.9,4,35,0
+L0922,Phone,18-24,Local,SUV,New,Low,1,0,0,1,1,22.4,3,37,0
+L0923,Referral,45-54,Nearby Suburb,EV,New,Low,1,1,0,1,0,8.0,3,23,0
+L0924,Referral,35-44,Local,Sedan,Used,Low,1,0,1,0,0,7.5,2,33,1
+L0925,Walk-in,25-34,Far Suburb,Sedan,Used,Low,0,1,0,0,0,7.7,3,1,0
+L0926,Website,55+,Local,Hatchback,New,Low,0,0,0,1,1,13.4,4,20,1
+L0927,Walk-in,18-24,Nearby Suburb,EV,New,Low,0,0,0,1,0,12.7,3,5,0
+L0928,Phone,55+,Nearby Suburb,SUV,Used,High,1,1,0,0,1,1.6,3,29,1
+L0929,Carsales,25-34,Nearby Suburb,Hatchback,Used,Low,1,0,1,1,0,12.1,2,26,1
+L0930,Walk-in,45-54,Local,Hatchback,Used,Low,1,0,1,0,0,12.1,4,38,0
+L0931,Website,35-44,Far Suburb,Hatchback,New,Low,1,0,0,1,0,7.8,4,3,0
+L0932,Referral,45-54,Local,SUV,New,Medium,0,1,1,1,0,9.7,2,21,1
+L0933,Social Media,55+,Nearby Suburb,Hatchback,New,Low,0,1,0,0,1,2.0,6,13,0
+L0934,Phone,25-34,Local,SUV,New,High,0,0,0,1,0,3.2,1,31,0
+L0935,Website,55+,Local,Hatchback,Demo,High,0,1,1,1,0,4.7,3,17,1
+L0936,Walk-in,25-34,Nearby Suburb,Ute,Used,Low,0,0,1,0,0,13.6,3,35,0
+L0937,Website,25-34,Local,SUV,New,Medium,0,0,0,1,0,20.8,4,23,0
+L0938,Social Media,25-34,Local,Ute,Used,Low,1,1,0,0,0,13.0,4,3,0
+L0939,Website,35-44,Local,SUV,Used,Medium,1,1,0,1,0,10.0,6,2,1
+L0940,Phone,25-34,Local,Ute,New,Medium,1,1,0,0,1,14.9,1,3,0
+L0941,Walk-in,35-44,Nearby Suburb,Sedan,Used,Low,1,0,0,0,0,0.6,4,20,0
+L0942,Phone,35-44,Far Suburb,SUV,Demo,Low,0,0,1,0,0,19.7,2,44,0
+L0943,Carsales,45-54,Local,SUV,Used,Medium,0,0,0,0,0,8.4,4,9,0
+L0944,Referral,45-54,Local,EV,New,Medium,1,0,1,1,0,18.1,5,4,1
+L0945,Website,35-44,Local,SUV,Used,Low,0,0,0,0,0,14.3,4,25,0
+L0946,Website,25-34,Local,SUV,Used,Medium,0,1,0,0,0,5.0,2,1,1
+L0947,Website,25-34,Nearby Suburb,SUV,New,Medium,0,1,0,1,0,10.9,5,39,0
+L0948,Social Media,25-34,Nearby Suburb,Hatchback,New,High,0,0,0,0,0,5.3,2,12,0
+L0949,Referral,18-24,Local,Sedan,Demo,Low,0,0,1,1,0,12.6,5,40,0
+L0950,Carsales,25-34,Local,SUV,New,Medium,0,1,0,1,1,27.8,1,40,0
+L0951,Carsales,25-34,Local,SUV,Used,Medium,0,0,0,1,1,12.7,2,24,0
+L0952,Carsales,55+,Far Suburb,SUV,Used,Low,1,1,1,0,0,4.8,4,9,1
+L0953,Website,35-44,Far Suburb,SUV,New,Medium,0,0,1,0,0,16.7,2,20,0
+L0954,Social Media,25-34,Local,Sedan,New,Medium,0,0,0,1,0,4.6,3,5,0
+L0955,Walk-in,35-44,Local,Hatchback,Used,High,0,1,0,0,0,20.3,1,20,0
+L0956,Walk-in,25-34,Far Suburb,SUV,New,Low,0,0,1,0,1,3.9,4,21,1
+L0957,Phone,35-44,Far Suburb,Sedan,Used,Medium,1,0,1,0,1,18.6,1,2,0
+L0958,Website,35-44,Local,Sedan,Used,Medium,1,0,1,0,0,6.2,2,21,1
+L0959,Website,35-44,Local,EV,Used,High,1,1,0,1,0,13.6,0,42,0
+L0960,Carsales,25-34,Local,EV,Demo,Low,0,1,1,1,0,16.8,1,24,1
+L0961,Website,55+,Nearby Suburb,Ute,Used,High,1,0,0,1,0,10.9,3,9,0
+L0962,Carsales,45-54,Local,SUV,New,High,1,0,0,1,1,6.8,4,39,1
+L0963,Website,35-44,Local,SUV,Demo,Low,0,1,1,0,0,11.1,0,30,0
+L0964,Walk-in,35-44,Nearby Suburb,SUV,Used,High,0,0,0,0,0,8.4,8,18,0
+L0965,Walk-in,35-44,Local,SUV,New,High,0,1,0,1,0,9.5,3,44,1
+L0966,Walk-in,25-34,Nearby Suburb,Sedan,New,Low,1,0,0,0,0,2.3,3,43,0
+L0967,Carsales,25-34,Local,Ute,Used,Medium,1,0,0,0,0,14.7,3,10,0
+L0968,Walk-in,18-24,Local,Ute,New,Medium,0,1,1,1,0,10.6,1,41,0
+L0969,Phone,35-44,Nearby Suburb,Ute,Used,Low,1,0,1,1,0,1.8,4,21,1
+L0970,Phone,35-44,Local,Sedan,Used,Low,0,1,0,0,0,7.1,3,22,0
+L0971,Carsales,25-34,Far Suburb,Hatchback,New,Low,0,0,0,1,1,1.1,3,17,0
+L0972,Social Media,55+,Nearby Suburb,SUV,Used,Low,1,0,1,1,0,9.6,3,5,1
+L0973,Carsales,55+,Local,SUV,New,Medium,1,1,1,0,1,13.3,3,6,0
+L0974,Website,45-54,Nearby Suburb,Hatchback,New,Low,0,0,0,1,0,5.5,2,10,1
+L0975,Website,35-44,Local,SUV,Used,High,0,1,1,0,0,5.2,2,43,0
+L0976,Walk-in,45-54,Far Suburb,Sedan,New,Medium,0,0,1,1,1,6.8,3,2,1
+L0977,Carsales,25-34,Local,SUV,Used,Low,0,0,0,1,0,5.2,3,7,0
+L0978,Website,45-54,Nearby Suburb,Hatchback,Used,Medium,1,1,0,1,1,4.4,5,4,0
+L0979,Phone,25-34,Local,Ute,Used,Medium,1,0,0,0,0,1.5,1,37,0
+L0980,Carsales,45-54,Local,SUV,New,High,1,1,1,0,0,5.0,1,19,1
+L0981,Walk-in,25-34,Far Suburb,Ute,New,Low,0,0,0,0,0,2.4,3,28,0
+L0982,Carsales,45-54,Far Suburb,SUV,Used,Low,1,0,0,1,1,19.7,2,20,0
+L0983,Website,55+,Local,Sedan,Demo,High,0,0,0,0,1,22.0,4,30,0
+L0984,Website,25-34,Local,Hatchback,Used,High,1,0,1,0,0,12.8,3,42,1
+L0985,Carsales,35-44,Far Suburb,Hatchback,Used,Medium,1,0,0,0,0,19.1,3,38,0
+L0986,Phone,55+,Far Suburb,EV,New,Medium,1,0,1,0,0,4.7,1,2,1
+L0987,Carsales,35-44,Local,SUV,New,Low,0,0,1,0,1,13.2,2,3,1
+L0988,Phone,45-54,Nearby Suburb,Hatchback,Used,Medium,0,0,0,1,0,13.0,5,42,0
+L0989,Website,35-44,Local,Hatchback,New,Low,0,1,0,0,1,11.3,2,39,0
+L0990,Referral,25-34,Far Suburb,EV,New,Low,1,0,0,0,0,6.7,3,25,0
+L0991,Referral,25-34,Local,SUV,Demo,High,0,1,1,1,0,9.1,2,2,0
+L0992,Carsales,25-34,Local,Ute,New,Low,0,0,0,1,0,11.0,3,39,0
+L0993,Walk-in,45-54,Nearby Suburb,Hatchback,New,Medium,0,0,0,0,1,10.8,1,15,1
+L0994,Carsales,25-34,Local,SUV,New,High,1,1,0,0,0,4.2,4,3,0
+L0995,Walk-in,35-44,Nearby Suburb,Sedan,Demo,Low,0,0,0,1,1,21.1,2,5,0
+L0996,Website,35-44,Local,SUV,Used,High,1,0,1,0,0,9.7,3,40,0
+L0997,Social Media,35-44,Local,Hatchback,Used,High,1,0,1,1,0,15.3,1,36,1
+L0998,Website,45-54,Local,Ute,Demo,Medium,1,0,1,0,0,6.0,1,40,1
+L0999,Social Media,55+,Nearby Suburb,Hatchback,New,Low,0,0,0,0,1,12.6,1,38,0
+L1000,Phone,25-34,Local,Hatchback,Used,Low,0,1,0,0,1,10.1,3,37,0
+L1001,Website,45-54,Nearby Suburb,Sedan,New,Medium,0,0,1,1,0,4.6,0,27,0
+L1002,Phone,45-54,Far Suburb,SUV,New,Low,0,1,0,1,0,9.2,2,5,1
+L1003,Referral,35-44,Nearby Suburb,SUV,Used,Low,0,1,1,0,0,7.3,2,17,1
+L1004,Carsales,55+,Local,Sedan,Used,High,1,0,0,1,0,7.9,3,38,1
+L1005,Referral,25-34,Local,SUV,New,Low,0,0,0,0,1,17.2,5,41,0
+L1006,Carsales,18-24,Local,SUV,New,Medium,1,1,1,0,0,8.5,3,12,1
+L1007,Carsales,45-54,Local,Sedan,Used,Low,0,1,1,1,0,16.5,5,42,0
+L1008,Referral,35-44,Local,SUV,New,Medium,1,0,1,0,0,13.5,5,31,1
+L1009,Website,45-54,Nearby Suburb,SUV,New,High,1,0,0,1,0,10.0,1,33,0
+L1010,Phone,55+,Local,Sedan,New,Low,1,0,0,1,0,17.8,5,43,1
+L1011,Website,18-24,Local,SUV,New,Low,1,0,0,1,0,16.9,3,29,0
+L1012,Social Media,45-54,Local,EV,Used,Medium,1,0,1,1,0,10.0,0,38,0
+L1013,Social Media,35-44,Nearby Suburb,Ute,New,Medium,1,1,1,0,0,10.5,4,3,0
+L1014,Website,35-44,Local,Hatchback,New,Medium,0,0,0,0,1,17.9,2,38,0
+L1015,Carsales,35-44,Nearby Suburb,SUV,Used,Low,0,1,1,0,0,14.1,6,41,0
+L1016,Social Media,55+,Local,Ute,Demo,Low,0,1,1,0,0,21.0,1,40,0
+L1017,Website,18-24,Far Suburb,Ute,New,High,0,0,1,0,1,8.3,2,30,0
+L1018,Phone,35-44,Far Suburb,Ute,New,High,0,0,0,0,1,3.6,1,22,0
+L1019,Social Media,35-44,Local,SUV,New,Medium,0,1,0,1,1,5.4,2,38,0
+L1020,Website,45-54,Local,Hatchback,Used,High,0,1,1,0,1,1.7,4,32,0
+L1021,Carsales,45-54,Local,Ute,Used,Medium,0,1,1,1,0,5.1,5,43,0
+L1022,Walk-in,25-34,Local,Hatchback,Used,Medium,0,0,1,1,0,14.0,1,10,0
+L1023,Social Media,25-34,Nearby Suburb,Hatchback,Demo,Low,1,0,1,1,0,8.4,6,32,0
+L1024,Social Media,25-34,Far Suburb,Sedan,Used,Medium,0,0,1,0,0,4.6,7,43,1
+L1025,Social Media,45-54,Nearby Suburb,Sedan,Used,Medium,1,0,0,0,1,6.1,2,4,1
+L1026,Phone,25-34,Far Suburb,SUV,Used,Low,0,1,0,0,0,11.3,2,29,0
+L1027,Referral,25-34,Local,Hatchback,New,Medium,1,0,0,0,0,6.3,6,8,0
+L1028,Referral,55+,Local,SUV,Demo,Medium,1,1,0,0,1,7.8,4,20,1
+L1029,Walk-in,18-24,Nearby Suburb,Sedan,New,Medium,1,0,0,1,0,2.5,5,7,1
+L1030,Referral,55+,Local,SUV,New,Medium,1,1,0,0,1,19.4,2,1,0
+L1031,Website,35-44,Nearby Suburb,Sedan,Used,High,0,1,0,1,0,21.2,1,25,0
+L1032,Carsales,45-54,Local,SUV,New,Low,1,0,0,1,0,4.8,5,26,1
+L1033,Website,25-34,Local,Hatchback,Used,Medium,1,1,0,0,1,7.1,6,9,1
+L1034,Website,18-24,Far Suburb,Ute,Used,Medium,1,0,0,0,0,1.5,3,23,1
+L1035,Website,45-54,Local,SUV,New,Medium,1,0,0,1,1,18.4,2,40,0
+L1036,Carsales,45-54,Far Suburb,SUV,Used,Low,0,1,1,0,0,3.2,2,2,0
+L1037,Walk-in,45-54,Far Suburb,SUV,New,Low,1,1,0,1,0,8.9,4,26,0
+L1038,Carsales,25-34,Nearby Suburb,Ute,New,High,0,0,0,0,1,4.0,5,14,0
+L1039,Website,45-54,Nearby Suburb,Sedan,Used,Medium,1,0,1,1,0,9.1,4,44,1
+L1040,Walk-in,45-54,Nearby Suburb,Sedan,Used,High,0,1,1,0,0,16.1,7,31,0
+L1041,Phone,35-44,Far Suburb,SUV,Used,Medium,1,1,0,0,0,13.4,2,26,0
+L1042,Referral,45-54,Local,Hatchback,New,Medium,0,0,1,1,1,14.1,3,19,0
+L1043,Walk-in,45-54,Nearby Suburb,Ute,Used,High,0,1,1,0,0,2.9,4,38,0
+L1044,Carsales,35-44,Nearby Suburb,Ute,New,Medium,1,0,1,0,1,8.8,2,5,1
+L1045,Referral,18-24,Local,Hatchback,Demo,Medium,1,0,0,0,0,29.9,2,6,1
+L1046,Carsales,35-44,Local,SUV,New,Medium,1,0,1,0,0,10.8,3,35,0
+L1047,Website,18-24,Local,SUV,Used,High,0,0,0,1,1,9.3,1,16,0
+L1048,Website,25-34,Nearby Suburb,SUV,New,Medium,0,1,0,1,0,7.5,2,31,0
+L1049,Referral,25-34,Far Suburb,SUV,New,Medium,1,0,1,1,0,10.1,3,18,1
+L1050,Website,18-24,Local,SUV,Used,Low,1,1,0,1,1,9.1,3,14,1
+L1051,Referral,25-34,Far Suburb,SUV,Demo,High,1,0,1,0,1,26.6,4,25,1
+L1052,Phone,18-24,Nearby Suburb,Sedan,Used,Low,0,1,0,0,0,15.5,6,15,0
+L1053,Social Media,45-54,Far Suburb,EV,Demo,Medium,1,1,1,1,0,8.3,2,26,1
+L1054,Referral,55+,Nearby Suburb,Hatchback,Used,Medium,0,1,0,1,1,15.0,5,36,1
+L1055,Social Media,18-24,Nearby Suburb,Ute,Used,Medium,0,0,0,0,1,5.1,2,11,0
+L1056,Walk-in,55+,Local,Hatchback,New,Medium,0,0,1,0,1,9.0,2,37,1
+L1057,Carsales,35-44,Far Suburb,SUV,Used,Low,0,1,0,0,0,6.3,3,41,0
+L1058,Walk-in,25-34,Local,Ute,New,Medium,1,1,0,1,1,14.3,4,37,0
+L1059,Phone,18-24,Far Suburb,SUV,Demo,Medium,0,0,1,1,0,8.5,3,7,0
+L1060,Carsales,35-44,Far Suburb,Hatchback,Demo,High,0,1,0,0,0,10.0,4,18,0
+L1061,Referral,45-54,Local,SUV,Demo,Low,0,0,1,1,0,8.0,4,20,0
+L1062,Social Media,45-54,Local,EV,Used,High,0,0,0,0,0,11.6,5,2,0
+L1063,Carsales,18-24,Nearby Suburb,SUV,Used,Medium,1,1,0,0,0,14.5,3,26,0
+L1064,Walk-in,18-24,Local,SUV,Used,High,0,0,1,1,0,21.3,2,23,1
+L1065,Walk-in,25-34,Far Suburb,EV,New,Medium,0,1,0,0,0,7.5,5,32,1
+L1066,Carsales,25-34,Local,SUV,Used,Medium,1,0,1,0,0,4.2,4,13,0
+L1067,Website,25-34,Local,Hatchback,New,High,1,0,1,1,0,12.1,1,13,1
+L1068,Website,25-34,Far Suburb,Hatchback,Used,High,1,0,0,1,0,3.3,0,17,0
+L1069,Walk-in,45-54,Nearby Suburb,Ute,New,Medium,0,0,1,1,0,7.3,3,25,1
+L1070,Walk-in,55+,Far Suburb,EV,New,Low,1,1,1,0,0,2.6,5,22,1
+L1071,Walk-in,25-34,Local,EV,New,Medium,1,0,0,0,0,45.0,4,27,0
+L1072,Website,55+,Nearby Suburb,SUV,New,Medium,1,0,1,1,0,19.5,9,17,1
+L1073,Website,25-34,Nearby Suburb,Ute,Used,Low,1,0,0,1,1,18.4,1,26,0
+L1074,Website,35-44,Nearby Suburb,Hatchback,New,Low,0,0,0,1,1,21.9,2,38,1
+L1075,Social Media,25-34,Nearby Suburb,Hatchback,Used,High,1,1,1,0,1,17.1,3,14,1
+L1076,Walk-in,35-44,Nearby Suburb,SUV,New,Low,0,0,1,0,0,10.9,7,14,1
+L1077,Walk-in,55+,Local,Hatchback,Used,Medium,0,1,1,1,0,11.1,4,12,1
+L1078,Carsales,35-44,Local,EV,Used,Low,0,1,1,1,0,20.6,6,5,0
+L1079,Website,25-34,Nearby Suburb,EV,Used,Low,0,1,1,0,1,21.5,3,37,0
+L1080,Social Media,35-44,Local,Sedan,Used,Low,1,1,1,0,0,4.5,4,4,1
+L1081,Carsales,25-34,Nearby Suburb,SUV,New,Low,1,0,0,0,0,8.3,2,29,0
+L1082,Website,45-54,Local,Sedan,Used,Medium,1,0,0,0,0,9.8,1,25,0
+L1083,Walk-in,35-44,Nearby Suburb,Ute,New,High,1,1,0,0,0,17.4,1,4,0
+L1084,Referral,35-44,Nearby Suburb,Hatchback,Used,Low,0,1,1,0,1,5.1,2,16,1
+L1085,Social Media,35-44,Local,Sedan,Used,Medium,0,1,0,1,1,4.7,1,2,1
+L1086,Phone,35-44,Local,SUV,New,Medium,1,1,0,0,1,3.1,3,23,0
+L1087,Carsales,18-24,Local,Sedan,Used,High,1,0,0,1,0,6.4,1,4,1
+L1088,Website,35-44,Nearby Suburb,Sedan,Used,Medium,0,0,1,0,1,7.3,2,20,0
+L1089,Social Media,25-34,Far Suburb,EV,New,Medium,1,1,1,1,0,24.5,2,17,1
+L1090,Website,45-54,Local,Hatchback,New,Medium,0,1,0,0,1,16.1,2,6,0
+L1091,Social Media,45-54,Nearby Suburb,SUV,New,High,0,0,0,1,0,17.4,5,18,0
+L1092,Carsales,45-54,Local,Sedan,Demo,Low,0,1,0,1,0,4.1,2,20,1
+L1093,Carsales,35-44,Nearby Suburb,SUV,Used,Medium,0,0,0,1,0,8.0,5,39,0
+L1094,Phone,35-44,Far Suburb,EV,New,High,1,0,0,1,0,14.8,5,41,0
+L1095,Website,25-34,Local,Sedan,New,Medium,1,1,1,0,1,10.3,3,34,1
+L1096,Website,45-54,Nearby Suburb,Sedan,Used,Medium,0,1,1,1,1,13.2,4,40,1
+L1097,Website,25-34,Local,Sedan,Used,Medium,1,0,0,1,0,3.1,2,24,0
+L1098,Website,35-44,Local,Hatchback,New,Low,1,0,0,1,0,10.0,0,18,0
+L1099,Carsales,25-34,Local,Hatchback,New,Medium,0,0,0,0,0,15.4,1,30,0
+L1100,Walk-in,25-34,Local,Hatchback,Demo,Medium,0,1,0,1,1,4.2,5,1,0
+L1101,Website,35-44,Nearby Suburb,SUV,New,Medium,1,0,0,0,0,2.0,5,23,1
+L1102,Social Media,18-24,Local,SUV,New,Medium,1,1,0,0,0,4.0,5,29,0
+L1103,Referral,45-54,Nearby Suburb,SUV,Demo,High,1,1,0,0,0,20.4,2,41,0
+L1104,Social Media,25-34,Local,Hatchback,Used,Low,0,1,1,0,0,3.5,10,41,1
+L1105,Social Media,18-24,Local,SUV,New,Medium,1,0,1,1,1,9.4,0,32,0
+L1106,Website,35-44,Nearby Suburb,Hatchback,New,Medium,0,1,1,1,0,1.9,4,2,1
+L1107,Walk-in,18-24,Far Suburb,Ute,New,Medium,0,0,0,1,0,4.7,1,36,0
+L1108,Carsales,25-34,Local,Ute,New,Low,0,0,1,1,1,10.7,3,17,1
+L1109,Carsales,45-54,Far Suburb,Sedan,Demo,Medium,0,0,1,1,0,9.3,3,43,0
+L1110,Website,18-24,Nearby Suburb,Sedan,New,High,0,0,0,1,0,18.4,4,2,0
+L1111,Referral,45-54,Nearby Suburb,SUV,Used,Medium,0,1,0,0,0,12.3,1,4,0
+L1112,Website,18-24,Nearby Suburb,Hatchback,Demo,High,0,0,0,1,0,4.2,0,44,0
+L1113,Website,25-34,Local,Ute,New,High,1,0,0,1,0,7.9,4,34,0
+L1114,Phone,45-54,Local,SUV,New,Low,0,1,0,1,1,6.7,3,1,1
+L1115,Carsales,25-34,Nearby Suburb,Sedan,Used,Low,0,0,1,1,1,1.1,5,23,1
+L1116,Phone,18-24,Local,Ute,Demo,High,0,1,0,1,1,24.9,4,6,1
+L1117,Website,25-34,Far Suburb,Ute,Used,High,0,0,0,0,1,9.6,2,16,0
+L1118,Referral,25-34,Local,SUV,New,Low,1,0,0,0,0,10.8,4,2,0
+L1119,Walk-in,45-54,Local,Hatchback,Used,Low,0,1,1,1,0,14.5,0,12,0
+L1120,Website,25-34,Nearby Suburb,SUV,Used,Low,1,0,0,0,0,14.6,1,27,0
+L1121,Referral,45-54,Local,SUV,Demo,High,0,0,1,1,1,15.7,4,19,1
+L1122,Social Media,55+,Nearby Suburb,EV,New,Low,0,0,0,0,0,7.0,0,28,0
+L1123,Referral,35-44,Nearby Suburb,Ute,Used,Medium,1,0,0,0,0,6.4,6,35,1
+L1124,Referral,55+,Far Suburb,Ute,Demo,High,1,0,0,1,0,18.9,4,43,0
+L1125,Carsales,25-34,Nearby Suburb,SUV,New,Low,0,0,0,0,0,25.3,6,4,0
+L1126,Phone,55+,Nearby Suburb,Ute,Used,Medium,1,0,0,1,0,1.9,4,7,0
+L1127,Website,18-24,Nearby Suburb,Sedan,New,Low,0,1,0,0,1,18.4,4,37,0
+L1128,Walk-in,35-44,Far Suburb,SUV,New,High,1,0,0,0,0,7.9,0,25,0
+L1129,Walk-in,35-44,Local,Sedan,New,Low,1,0,1,1,1,8.9,2,41,0
+L1130,Walk-in,25-34,Local,SUV,Demo,Medium,1,0,0,0,0,0.6,3,17,1
+L1131,Carsales,35-44,Local,Ute,New,Medium,1,1,1,1,1,9.4,1,41,0
+L1132,Phone,45-54,Local,Hatchback,Used,Low,0,1,0,1,1,6.0,2,14,1
+L1133,Website,18-24,Nearby Suburb,SUV,Used,Low,1,1,1,0,1,1.0,3,37,1
+L1134,Website,25-34,Nearby Suburb,SUV,New,Medium,0,1,0,1,0,20.1,2,2,0
+L1135,Carsales,45-54,Nearby Suburb,SUV,Used,Low,0,0,1,1,0,10.7,3,24,0
+L1136,Website,35-44,Local,SUV,Used,High,0,0,1,0,0,11.9,1,15,0
+L1137,Referral,55+,Nearby Suburb,Hatchback,Demo,High,0,0,1,0,0,20.0,4,33,0
+L1138,Phone,45-54,Local,Ute,Used,Medium,1,1,0,0,0,14.8,2,12,0
+L1139,Phone,55+,Nearby Suburb,SUV,Used,Medium,1,0,1,1,1,3.0,1,19,0
+L1140,Carsales,45-54,Nearby Suburb,SUV,New,Medium,1,0,0,1,0,17.1,4,5,0
+L1141,Referral,25-34,Local,Hatchback,Demo,High,0,1,1,1,0,2.3,1,1,1
+L1142,Walk-in,18-24,Local,Ute,New,Medium,0,1,0,1,0,14.1,6,43,0
+L1143,Carsales,45-54,Local,SUV,Used,Low,1,0,0,1,1,28.7,3,9,0
+L1144,Phone,35-44,Far Suburb,SUV,New,Low,0,1,0,1,1,14.2,3,39,0
+L1145,Walk-in,18-24,Far Suburb,Hatchback,Demo,Medium,1,0,0,1,0,7.3,5,34,0
+L1146,Referral,25-34,Nearby Suburb,SUV,Used,Medium,1,0,1,0,0,28.1,3,29,0
+L1147,Referral,55+,Local,SUV,Used,Medium,1,0,1,1,1,10.7,5,2,1
+L1148,Carsales,35-44,Local,Ute,New,Low,0,0,1,1,0,4.3,2,19,1
+L1149,Referral,35-44,Nearby Suburb,Hatchback,New,Medium,1,0,1,1,0,5.7,3,28,1
+L1150,Referral,35-44,Nearby Suburb,Hatchback,Used,Low,0,1,1,1,1,5.5,6,35,1
+L1151,Carsales,25-34,Local,Ute,Used,Low,1,0,0,0,1,32.3,6,40,0
+L1152,Referral,25-34,Local,Hatchback,New,Medium,0,0,0,1,0,14.0,3,22,0
+L1153,Carsales,25-34,Nearby Suburb,SUV,Demo,Low,0,0,0,0,0,14.3,3,4,0
+L1154,Carsales,18-24,Local,Sedan,Demo,Medium,0,0,0,1,0,12.8,3,8,0
+L1155,Carsales,45-54,Local,SUV,New,Medium,1,1,0,0,0,11.3,1,1,0
+L1156,Carsales,25-34,Local,SUV,Used,Medium,0,0,0,1,0,6.5,5,36,0
+L1157,Website,45-54,Nearby Suburb,Hatchback,Used,Medium,0,1,0,1,0,3.5,3,7,1
+L1158,Referral,45-54,Far Suburb,Ute,Used,Low,0,1,0,1,0,12.0,4,25,0
+L1159,Referral,25-34,Far Suburb,EV,New,Low,1,0,1,0,0,27.5,1,29,0
+L1160,Website,35-44,Nearby Suburb,Hatchback,Used,High,1,0,0,1,0,11.6,3,1,1
+L1161,Referral,35-44,Nearby Suburb,SUV,Used,Medium,1,1,0,1,0,21.3,5,18,0
+L1162,Website,45-54,Local,SUV,New,Medium,1,1,1,1,0,1.8,3,4,1
+L1163,Walk-in,25-34,Nearby Suburb,Ute,Used,Low,0,1,0,0,0,11.6,1,20,0
+L1164,Carsales,35-44,Local,Hatchback,Used,Medium,0,1,0,1,0,6.2,3,8,0
+L1165,Website,35-44,Nearby Suburb,Hatchback,Used,Medium,1,1,0,0,0,4.1,3,27,1
+L1166,Referral,25-34,Local,Ute,New,Medium,0,0,0,1,1,23.9,4,39,0
+L1167,Referral,25-34,Local,Hatchback,Demo,Medium,0,0,0,0,0,6.8,2,35,1
+L1168,Phone,35-44,Local,Ute,Used,Low,0,1,0,1,1,14.0,6,25,0
+L1169,Website,45-54,Local,SUV,New,Low,0,1,0,1,0,8.7,2,14,0
+L1170,Walk-in,25-34,Local,Ute,New,High,0,0,1,0,0,3.0,4,44,0
+L1171,Carsales,35-44,Local,Ute,Used,High,0,0,0,0,0,15.3,2,40,0
+L1172,Social Media,25-34,Far Suburb,SUV,Demo,Low,0,0,0,1,0,7.2,7,31,0
+L1173,Carsales,45-54,Local,Hatchback,New,Medium,0,0,0,0,1,16.9,7,5,0
+L1174,Walk-in,25-34,Nearby Suburb,SUV,Used,Low,0,1,1,1,1,4.7,2,17,1
+L1175,Carsales,55+,Far Suburb,EV,New,Low,0,0,0,0,1,6.3,5,10,0
+L1176,Phone,25-34,Far Suburb,SUV,Used,Low,0,0,1,0,0,13.6,3,43,0
+L1177,Carsales,25-34,Nearby Suburb,Hatchback,Demo,Low,1,0,1,0,0,5.0,3,16,0
+L1178,Website,18-24,Far Suburb,SUV,Used,Medium,0,0,0,1,0,15.1,1,4,0
+L1179,Carsales,18-24,Local,Hatchback,New,Medium,1,0,0,0,0,1.5,2,5,0
+L1180,Phone,35-44,Local,SUV,Used,Low,1,0,0,1,0,3.5,4,42,0
+L1181,Social Media,25-34,Local,SUV,New,Low,1,0,0,1,1,9.9,5,41,0
+L1182,Walk-in,45-54,Nearby Suburb,Sedan,New,High,0,0,0,0,1,14.4,2,20,0
+L1183,Carsales,18-24,Nearby Suburb,EV,Used,Low,0,0,0,1,0,10.2,2,6,0
+L1184,Social Media,25-34,Local,SUV,Used,Medium,0,0,0,0,0,13.2,0,11,0
+L1185,Website,25-34,Local,SUV,New,Low,1,1,0,1,0,6.9,5,17,0
+L1186,Social Media,18-24,Nearby Suburb,Ute,Demo,Medium,0,0,1,0,0,1.3,2,41,0
+L1187,Carsales,25-34,Local,Sedan,Used,Low,1,0,0,0,0,7.5,2,3,0
+L1188,Website,25-34,Nearby Suburb,EV,New,Low,1,1,1,1,1,7.7,4,16,1
+L1189,Walk-in,35-44,Nearby Suburb,SUV,Used,Low,0,0,1,1,0,20.1,6,36,0
+L1190,Carsales,25-34,Nearby Suburb,Hatchback,Used,Low,0,1,1,0,0,14.9,1,26,0
+L1191,Website,35-44,Nearby Suburb,SUV,Used,Medium,1,0,1,1,0,3.8,2,24,0
+L1192,Phone,35-44,Far Suburb,SUV,Used,Medium,0,0,0,0,0,1.0,1,34,0
+L1193,Walk-in,18-24,Nearby Suburb,Hatchback,Used,Low,0,1,0,1,1,8.6,2,20,1
+L1194,Carsales,35-44,Nearby Suburb,Hatchback,New,Low,1,1,0,1,0,6.1,2,17,1
+L1195,Website,55+,Nearby Suburb,Ute,Used,Medium,0,0,0,0,1,26.2,1,20,0
+L1196,Referral,35-44,Local,SUV,Used,Medium,1,0,1,0,0,20.5,4,16,0
+L1197,Social Media,35-44,Local,Sedan,New,High,1,0,1,0,0,3.0,2,4,0
+L1198,Social Media,25-34,Local,Sedan,Used,Medium,1,1,0,0,0,14.6,2,18,0
+L1199,Carsales,45-54,Local,EV,Demo,Medium,0,1,0,0,0,13.1,0,36,0
+L1200,Website,45-54,Nearby Suburb,SUV,Demo,Medium,0,0,0,1,1,12.8,2,35,0
+L1201,Carsales,35-44,Far Suburb,SUV,New,High,0,0,0,1,1,42.6,4,30,1
+L1202,Website,55+,Local,Sedan,New,High,0,0,0,0,1,8.8,3,18,0
+L1203,Website,25-34,Local,Hatchback,Used,Low,0,0,0,1,0,15.8,1,21,0
+L1204,Walk-in,18-24,Far Suburb,SUV,New,Low,0,0,1,1,1,17.3,7,32,0
+L1205,Phone,45-54,Local,EV,Demo,Low,0,0,0,1,1,12.1,2,5,1
+L1206,Carsales,45-54,Nearby Suburb,SUV,New,Medium,0,1,1,1,0,26.0,3,41,1
+L1207,Carsales,25-34,Nearby Suburb,Ute,New,Medium,1,1,1,1,1,10.9,3,23,1
+L1208,Phone,25-34,Nearby Suburb,SUV,New,Medium,0,1,1,0,0,16.7,5,30,0
+L1209,Walk-in,18-24,Local,Hatchback,New,Low,0,0,0,0,0,5.5,1,27,0
+L1210,Social Media,25-34,Local,EV,Used,Medium,1,0,1,0,0,3.5,3,15,0
+L1211,Walk-in,45-54,Local,SUV,Used,High,1,1,1,0,1,13.6,1,41,1
+L1212,Phone,35-44,Nearby Suburb,EV,New,Low,0,0,0,0,0,9.1,3,14,0
+L1213,Website,25-34,Nearby Suburb,Sedan,New,Medium,0,1,0,1,0,9.5,3,21,1
+L1214,Referral,25-34,Local,EV,Used,Medium,1,0,1,0,0,7.4,5,34,0
+L1215,Carsales,18-24,Nearby Suburb,Hatchback,New,High,1,0,0,1,0,16.5,5,26,0
+L1216,Website,25-34,Far Suburb,SUV,Used,High,1,0,0,0,0,10.7,2,25,0
+L1217,Website,35-44,Local,SUV,Used,Medium,1,0,0,1,0,34.8,1,31,0
+L1218,Carsales,55+,Nearby Suburb,SUV,Used,Medium,0,1,1,1,0,10.5,2,6,1
+L1219,Carsales,45-54,Nearby Suburb,SUV,Demo,High,0,0,1,0,1,12.5,1,4,1
+L1220,Walk-in,18-24,Local,SUV,Demo,Medium,0,0,0,0,1,17.9,4,24,0
+L1221,Social Media,55+,Local,SUV,Demo,Low,1,0,0,1,1,13.5,5,42,0
+L1222,Website,45-54,Nearby Suburb,Sedan,New,Medium,1,1,1,0,0,3.6,5,31,1
+L1223,Phone,45-54,Far Suburb,Ute,New,Low,1,0,1,0,0,8.2,0,19,1
+L1224,Social Media,35-44,Far Suburb,SUV,New,Medium,0,0,1,0,0,5.2,5,11,0
+L1225,Walk-in,25-34,Nearby Suburb,SUV,Demo,High,0,0,0,1,0,13.0,1,29,0
+L1226,Carsales,25-34,Nearby Suburb,Hatchback,Demo,Medium,0,0,0,1,1,11.4,2,5,0
+L1227,Walk-in,18-24,Local,SUV,Demo,Medium,1,0,0,1,0,17.1,2,18,0
+L1228,Walk-in,25-34,Nearby Suburb,SUV,New,Low,1,1,1,1,1,18.7,0,3,1
+L1229,Social Media,25-34,Nearby Suburb,SUV,Demo,Medium,0,0,0,1,0,5.2,3,40,0
+L1230,Walk-in,35-44,Local,EV,New,Low,0,0,0,1,1,18.4,1,11,1
+L1231,Referral,45-54,Nearby Suburb,Ute,New,Low,0,1,0,1,0,20.3,4,21,1
+L1232,Website,35-44,Nearby Suburb,Sedan,New,Medium,0,0,0,0,0,4.3,3,30,0
+L1233,Website,18-24,Local,Hatchback,New,Low,1,0,1,0,0,12.5,3,19,0
+L1234,Website,55+,Far Suburb,Sedan,Used,Medium,0,0,0,1,0,22.8,5,25,0
+L1235,Carsales,55+,Local,Hatchback,New,Medium,1,0,1,1,0,8.1,3,35,1
+L1236,Walk-in,45-54,Local,Hatchback,Used,High,1,1,1,0,0,9.6,4,12,1
+L1237,Referral,55+,Local,Hatchback,Used,Medium,1,1,0,0,0,12.4,1,26,0
+L1238,Phone,35-44,Nearby Suburb,SUV,Demo,Low,0,1,1,1,1,10.6,1,5,1
+L1239,Social Media,55+,Nearby Suburb,SUV,Used,Low,1,1,1,1,0,11.1,4,19,1
+L1240,Website,18-24,Local,Sedan,New,Medium,0,0,1,0,1,14.7,2,27,0
+L1241,Referral,25-34,Nearby Suburb,Ute,Used,Medium,0,0,0,1,0,15.1,3,38,0
+L1242,Carsales,25-34,Local,Hatchback,Demo,Medium,0,0,0,1,0,9.3,1,29,0
+L1243,Carsales,25-34,Nearby Suburb,Ute,New,Medium,0,0,0,1,0,27.7,3,12,0
+L1244,Referral,25-34,Nearby Suburb,EV,Used,Low,0,1,1,0,0,5.2,4,19,1
+L1245,Carsales,35-44,Local,SUV,New,Medium,0,1,1,0,0,16.8,2,9,1
+L1246,Carsales,45-54,Far Suburb,Hatchback,New,Medium,1,0,1,0,0,1.0,4,18,0
+L1247,Website,35-44,Local,Hatchback,Used,Low,0,0,0,0,0,10.1,9,29,0
+L1248,Website,25-34,Local,EV,Demo,Low,1,0,0,1,0,0.8,4,3,0
+L1249,Social Media,45-54,Nearby Suburb,EV,New,Low,1,0,1,0,0,10.5,2,23,0
+L1250,Carsales,35-44,Far Suburb,Hatchback,Used,Low,0,0,0,1,0,13.4,5,30,0
+L1251,Referral,25-34,Local,SUV,Demo,Medium,1,0,1,0,0,7.6,0,24,1
+L1252,Phone,35-44,Local,Ute,Demo,Low,0,1,0,0,0,9.8,2,37,0
+L1253,Website,25-34,Local,SUV,New,Low,0,1,0,1,0,15.9,2,37,0
+L1254,Website,25-34,Nearby Suburb,Ute,Demo,Low,0,0,0,1,0,0.1,4,4,0
+L1255,Carsales,55+,Local,EV,New,High,1,0,0,0,0,6.6,1,28,1
+L1256,Phone,25-34,Nearby Suburb,Sedan,Used,High,0,0,0,1,1,23.2,3,16,0
+L1257,Website,35-44,Far Suburb,Hatchback,New,Low,1,1,0,1,1,3.6,7,13,1
+L1258,Phone,55+,Nearby Suburb,Sedan,New,Low,0,1,0,1,0,5.7,1,8,0
+L1259,Website,45-54,Local,Sedan,Used,Low,1,1,0,1,0,1.4,3,25,0
+L1260,Phone,18-24,Local,SUV,New,Medium,0,0,0,0,0,6.6,3,2,0
+L1261,Walk-in,25-34,Local,Ute,New,Low,1,1,1,1,0,9.0,3,30,1
+L1262,Referral,18-24,Far Suburb,EV,New,Medium,1,0,0,1,1,41.6,1,40,0
+L1263,Walk-in,35-44,Local,EV,Used,Medium,1,0,1,0,1,12.8,1,3,1
+L1264,Phone,35-44,Local,SUV,New,High,1,0,1,0,0,6.9,2,23,1
+L1265,Website,25-34,Nearby Suburb,Ute,Used,Low,1,0,1,1,0,2.4,7,29,1
+L1266,Website,55+,Local,Ute,New,High,0,1,1,0,1,5.7,5,41,0
+L1267,Walk-in,35-44,Nearby Suburb,SUV,New,Medium,0,0,0,0,1,4.8,5,30,0
+L1268,Phone,25-34,Local,SUV,New,Low,0,0,1,1,0,1.1,2,11,0
+L1269,Carsales,35-44,Far Suburb,SUV,Used,Medium,0,0,1,0,0,3.5,8,21,1
+L1270,Walk-in,35-44,Far Suburb,EV,New,Low,0,0,1,0,0,7.1,5,27,0
+L1271,Carsales,18-24,Nearby Suburb,Hatchback,New,Low,0,0,0,1,0,7.9,4,24,0
+L1272,Referral,25-34,Far Suburb,Hatchback,Demo,Low,0,0,0,1,1,15.7,3,31,0
+L1273,Carsales,45-54,Local,SUV,Used,Medium,1,0,0,0,1,23.9,5,30,0
+L1274,Website,35-44,Nearby Suburb,Hatchback,New,Medium,0,0,1,1,0,7.8,2,1,1
+L1275,Phone,35-44,Nearby Suburb,SUV,New,High,1,1,1,1,1,17.2,4,1,1
+L1276,Website,35-44,Nearby Suburb,Sedan,Demo,Low,0,0,0,1,0,6.9,0,8,0
+L1277,Website,18-24,Local,Hatchback,New,High,1,0,0,0,0,4.5,2,42,0
+L1278,Social Media,25-34,Local,SUV,New,Low,1,0,1,0,0,15.2,3,34,0
+L1279,Website,35-44,Local,Ute,Used,Medium,0,1,0,0,0,6.8,7,16,0
+L1280,Phone,25-34,Local,SUV,Used,Low,0,1,1,1,0,5.0,5,27,1
+L1281,Carsales,18-24,Local,Hatchback,Used,Low,0,0,1,1,0,4.3,5,4,1
+L1282,Carsales,45-54,Nearby Suburb,Sedan,New,High,0,0,0,1,1,2.1,3,19,0
+L1283,Phone,55+,Local,Hatchback,New,Low,1,1,1,1,1,9.8,1,29,0
+L1284,Website,45-54,Local,SUV,Used,Medium,1,1,0,1,0,6.0,2,41,1
+L1285,Walk-in,45-54,Nearby Suburb,SUV,New,Medium,0,1,0,0,0,17.6,2,3,0
+L1286,Phone,25-34,Nearby Suburb,EV,Used,Medium,0,1,1,1,0,28.0,5,11,0
+L1287,Website,55+,Far Suburb,SUV,Used,Medium,0,1,1,1,1,4.3,1,8,1
+L1288,Walk-in,25-34,Nearby Suburb,Ute,New,Medium,0,0,0,1,0,2.8,3,39,0
+L1289,Website,55+,Local,EV,Demo,Low,1,0,0,0,0,24.4,2,33,0
+L1290,Website,55+,Far Suburb,SUV,Used,Medium,0,1,0,1,0,10.6,2,8,1
+L1291,Walk-in,45-54,Nearby Suburb,SUV,Used,High,0,1,0,0,0,10.3,3,25,0
+L1292,Website,55+,Local,Hatchback,New,Low,0,0,0,0,0,12.0,5,24,0
+L1293,Phone,35-44,Nearby Suburb,EV,New,Low,0,1,0,1,1,19.7,3,26,0
+L1294,Carsales,25-34,Far Suburb,EV,Used,Medium,1,0,0,1,1,19.6,1,26,1
+L1295,Referral,35-44,Local,Sedan,New,Medium,0,0,0,0,0,14.7,3,17,0
+L1296,Website,35-44,Local,Ute,Demo,Medium,1,1,0,1,0,3.5,1,27,0
+L1297,Website,18-24,Local,SUV,New,Low,1,0,1,0,0,1.7,3,29,0
+L1298,Website,35-44,Local,EV,Used,Medium,0,0,1,0,1,3.6,2,43,1
+L1299,Carsales,55+,Local,EV,New,Low,0,0,0,0,0,2.2,5,39,0
+L1300,Carsales,25-34,Nearby Suburb,SUV,Used,Medium,1,0,0,1,0,15.9,4,9,0
+L1301,Website,45-54,Local,SUV,New,Medium,1,0,0,1,0,5.6,5,14,0
+L1302,Social Media,55+,Far Suburb,SUV,New,Low,1,0,0,1,0,14.5,1,5,0
+L1303,Website,55+,Nearby Suburb,SUV,New,Medium,0,0,0,1,0,9.5,1,30,0
+L1304,Phone,55+,Nearby Suburb,Ute,Demo,High,1,1,1,0,0,5.6,1,28,1
+L1305,Carsales,35-44,Far Suburb,Sedan,New,Medium,0,1,1,0,0,4.3,2,37,1
+L1306,Referral,55+,Local,SUV,Demo,High,1,0,1,1,0,5.2,2,8,1
+L1307,Carsales,45-54,Nearby Suburb,SUV,Used,Medium,1,1,0,0,0,2.9,1,15,1
+L1308,Referral,25-34,Nearby Suburb,EV,New,Medium,0,0,1,1,0,28.5,1,28,1
+L1309,Walk-in,35-44,Far Suburb,Hatchback,Used,Low,1,0,1,1,0,8.7,4,36,1
+L1310,Referral,45-54,Nearby Suburb,Sedan,New,Low,0,0,0,1,0,9.5,6,33,0
+L1311,Website,25-34,Local,SUV,Demo,Low,1,1,0,0,0,9.3,3,6,1
+L1312,Referral,35-44,Far Suburb,EV,Used,Medium,0,1,0,0,1,15.6,1,12,0
+L1313,Phone,35-44,Local,Ute,New,High,1,0,0,1,0,4.8,6,7,1
+L1314,Referral,25-34,Far Suburb,SUV,New,Low,0,0,1,0,0,20.4,2,28,0
+L1315,Phone,35-44,Far Suburb,SUV,New,Medium,1,0,0,1,0,7.3,3,7,0
+L1316,Carsales,45-54,Local,SUV,Demo,Medium,0,0,0,0,0,7.1,7,41,0
+L1317,Phone,35-44,Nearby Suburb,SUV,New,Medium,0,0,0,0,0,22.5,3,1,1
+L1318,Carsales,18-24,Local,Hatchback,Used,Medium,0,0,0,0,1,4.8,5,24,0
+L1319,Website,18-24,Local,EV,New,Medium,1,1,1,0,0,12.5,4,19,0
+L1320,Website,25-34,Nearby Suburb,Sedan,Demo,Low,0,0,0,1,0,9.2,4,32,0
+L1321,Website,55+,Nearby Suburb,Ute,New,Low,1,1,1,0,1,5.5,4,30,1
+L1322,Website,25-34,Far Suburb,Sedan,Used,High,0,1,0,0,1,13.9,6,1,0
+L1323,Referral,35-44,Nearby Suburb,Hatchback,Used,Low,1,0,0,0,1,3.3,3,32,0
+L1324,Website,25-34,Nearby Suburb,Ute,Used,Low,0,1,0,0,1,5.5,3,20,0
+L1325,Social Media,25-34,Far Suburb,SUV,New,High,0,1,1,0,1,10.0,4,21,1
+L1326,Walk-in,45-54,Far Suburb,Sedan,New,Low,0,0,0,0,0,25.8,7,19,0
+L1327,Website,45-54,Local,Hatchback,New,Medium,0,0,0,1,0,24.3,2,30,0
+L1328,Carsales,18-24,Far Suburb,SUV,Used,Low,0,1,0,1,0,12.6,1,28,0
+L1329,Carsales,35-44,Local,Sedan,New,Medium,0,0,0,1,0,7.5,2,32,0
+L1330,Phone,18-24,Far Suburb,Sedan,Used,Low,1,0,1,1,1,1.3,3,30,1
+L1331,Phone,35-44,Local,EV,New,Low,1,0,0,0,0,17.3,2,23,0
+L1332,Carsales,35-44,Local,Sedan,Demo,Medium,1,1,0,1,0,19.0,3,27,1
+L1333,Website,18-24,Local,Ute,Demo,Medium,0,1,0,1,1,12.5,4,37,1
+L1334,Social Media,25-34,Nearby Suburb,Sedan,Used,Medium,1,1,1,0,1,7.7,0,26,0
+L1335,Social Media,25-34,Local,Ute,New,High,0,0,0,1,0,16.3,5,3,1
+L1336,Carsales,55+,Local,Hatchback,New,Low,1,0,1,0,1,9.0,0,31,1
+L1337,Website,55+,Nearby Suburb,Ute,New,Medium,0,0,1,0,0,8.2,5,2,1
+L1338,Carsales,18-24,Far Suburb,Sedan,New,Medium,0,1,0,1,0,2.2,4,10,0
+L1339,Website,45-54,Local,Hatchback,Used,High,0,0,0,0,0,15.7,4,38,0
+L1340,Website,25-34,Local,Hatchback,Used,Low,1,0,0,0,0,10.3,4,19,0
+L1341,Walk-in,25-34,Local,Sedan,Demo,Medium,0,0,1,0,0,24.2,2,31,0
+L1342,Phone,45-54,Local,SUV,New,High,1,0,0,0,1,5.9,1,29,1
+L1343,Referral,55+,Far Suburb,SUV,Used,Low,0,1,0,0,1,4.5,2,25,0
+L1344,Carsales,55+,Far Suburb,SUV,Used,High,1,1,1,1,1,18.9,5,32,1
+L1345,Carsales,35-44,Nearby Suburb,Ute,Used,Low,1,1,0,1,0,21.6,2,17,0
+L1346,Walk-in,25-34,Local,SUV,New,Medium,0,0,0,1,0,9.4,1,23,0
+L1347,Walk-in,45-54,Nearby Suburb,SUV,Used,High,0,1,0,0,0,16.8,5,18,0
+L1348,Walk-in,25-34,Nearby Suburb,Ute,Used,Medium,1,1,0,1,0,7.3,3,11,1
+L1349,Social Media,35-44,Far Suburb,SUV,Used,Medium,0,0,0,1,0,7.6,1,20,0
+L1350,Website,25-34,Nearby Suburb,Sedan,Demo,Low,0,1,0,0,0,12.6,0,13,0
+L1351,Referral,35-44,Nearby Suburb,SUV,New,High,1,0,1,1,0,7.6,5,24,1
+L1352,Phone,25-34,Nearby Suburb,EV,New,Medium,1,1,0,1,1,11.3,3,43,0
+L1353,Phone,25-34,Local,Ute,Used,Low,0,1,1,1,0,10.1,3,20,0
+L1354,Carsales,55+,Far Suburb,Ute,Used,Medium,1,1,1,0,1,3.7,2,42,1
+L1355,Phone,18-24,Nearby Suburb,Sedan,New,Medium,0,0,0,0,0,11.2,2,28,0
+L1356,Referral,35-44,Nearby Suburb,Ute,Used,Low,0,0,1,1,1,3.8,3,35,0
+L1357,Social Media,25-34,Local,SUV,Demo,Low,1,0,0,1,0,15.9,2,21,0
+L1358,Walk-in,18-24,Nearby Suburb,SUV,Demo,Low,0,0,1,1,0,19.1,5,6,1
+L1359,Walk-in,18-24,Nearby Suburb,SUV,New,Medium,0,1,1,1,0,8.3,3,7,0
+L1360,Carsales,25-34,Local,Hatchback,Demo,Medium,1,1,0,1,1,25.9,4,29,0
+L1361,Social Media,45-54,Local,Sedan,Used,Medium,1,1,0,0,0,21.3,3,23,0
+L1362,Website,25-34,Nearby Suburb,Sedan,Used,High,1,0,0,1,0,11.4,5,5,1
+L1363,Carsales,55+,Nearby Suburb,SUV,Used,High,1,1,0,0,1,7.7,1,22,1
+L1364,Carsales,35-44,Nearby Suburb,Sedan,Used,Medium,1,1,0,1,0,18.0,3,9,0
+L1365,Carsales,35-44,Local,Hatchback,Used,Low,0,1,0,1,0,26.2,4,32,0
+L1366,Website,35-44,Nearby Suburb,Sedan,New,Medium,0,0,1,0,0,12.0,2,10,1
+L1367,Carsales,35-44,Local,Ute,Used,Medium,1,0,0,1,0,29.0,1,43,0
+L1368,Social Media,45-54,Local,SUV,Used,Medium,0,0,1,0,0,6.4,1,28,0
+L1369,Website,25-34,Local,Ute,New,Medium,1,1,1,0,0,14.9,3,11,1
+L1370,Website,25-34,Local,Hatchback,Demo,Medium,1,1,0,0,0,9.4,3,7,0
+L1371,Social Media,55+,Local,SUV,Used,High,0,1,1,0,0,4.3,1,30,0
+L1372,Website,55+,Local,SUV,Used,Low,1,0,0,0,1,6.9,6,43,0
+L1373,Referral,55+,Local,Hatchback,New,Medium,0,0,0,0,0,19.0,2,38,0
+L1374,Phone,25-34,Local,Ute,Used,Low,0,1,1,1,0,8.6,1,34,1
+L1375,Website,45-54,Nearby Suburb,Sedan,New,High,1,1,0,1,0,6.2,6,28,0
+L1376,Referral,35-44,Nearby Suburb,SUV,New,Low,0,1,0,1,0,22.0,3,32,0
+L1377,Phone,35-44,Local,Ute,Used,Low,0,1,1,0,0,18.6,1,16,0
+L1378,Phone,25-34,Far Suburb,Hatchback,New,Low,0,0,1,1,0,7.1,2,39,1
+L1379,Walk-in,35-44,Local,Sedan,Used,Medium,1,1,1,1,0,30.0,2,1,1
+L1380,Carsales,25-34,Nearby Suburb,Sedan,New,Low,1,1,1,0,1,9.0,4,34,1
+L1381,Website,25-34,Local,SUV,New,Medium,1,0,0,1,0,12.0,3,41,1
+L1382,Walk-in,45-54,Local,Hatchback,New,Medium,1,0,0,0,0,10.0,3,23,0
+L1383,Social Media,25-34,Nearby Suburb,Sedan,Demo,Low,0,0,1,1,0,4.9,5,20,0
+L1384,Walk-in,18-24,Nearby Suburb,EV,Used,Low,1,0,0,0,0,8.4,1,18,0
+L1385,Carsales,18-24,Far Suburb,Sedan,Used,High,1,1,0,0,1,9.3,3,18,0
+L1386,Walk-in,55+,Nearby Suburb,Sedan,New,Medium,0,0,0,1,0,1.7,5,42,0
+L1387,Carsales,35-44,Far Suburb,Hatchback,New,Medium,0,0,1,0,0,11.6,3,40,0
+L1388,Website,25-34,Local,EV,Demo,Medium,1,0,0,0,0,17.1,3,21,0
+L1389,Social Media,45-54,Local,Ute,New,Low,1,0,1,1,0,3.8,2,8,0
+L1390,Phone,45-54,Local,Sedan,New,Low,1,0,0,1,0,15.1,4,34,0
+L1391,Website,25-34,Local,Hatchback,Used,Low,1,1,0,1,0,19.7,4,11,1
+L1392,Website,45-54,Nearby Suburb,Hatchback,New,High,0,0,0,0,0,0.2,4,43,0
+L1393,Website,45-54,Nearby Suburb,Sedan,Used,High,1,0,0,0,0,8.5,0,43,0
+L1394,Phone,35-44,Local,SUV,Used,Medium,0,0,1,1,0,29.6,4,10,1
+L1395,Walk-in,25-34,Far Suburb,Sedan,New,Low,0,0,0,0,0,11.4,2,8,0
+L1396,Referral,45-54,Far Suburb,SUV,New,Low,1,0,0,0,0,1.7,2,8,0
+L1397,Phone,35-44,Local,EV,New,Low,0,0,0,1,0,3.2,5,19,0
+L1398,Website,25-34,Local,SUV,Demo,Medium,1,1,0,0,1,11.8,3,1,0
+L1399,Carsales,35-44,Local,EV,Used,Low,0,1,0,0,0,14.6,2,3,0
+L1400,Carsales,18-24,Local,Sedan,New,High,0,0,0,0,1,9.9,5,44,0
+L1401,Website,25-34,Local,Hatchback,New,Medium,0,0,1,0,0,11.3,2,32,0
+L1402,Website,45-54,Nearby Suburb,Sedan,Used,High,0,1,1,0,1,10.1,1,16,1
+L1403,Website,18-24,Local,SUV,Used,Medium,0,1,0,0,0,5.8,3,30,0
+L1404,Carsales,25-34,Local,Sedan,New,Medium,0,0,0,0,0,10.1,3,28,0
+L1405,Carsales,35-44,Far Suburb,SUV,New,Medium,1,1,0,1,1,2.4,1,28,0
+L1406,Phone,18-24,Nearby Suburb,Hatchback,New,Medium,0,1,0,1,1,7.4,3,16,1
+L1407,Referral,55+,Far Suburb,Sedan,Used,Medium,0,1,1,0,0,13.9,1,41,0
+L1408,Referral,25-34,Local,Ute,Demo,Medium,1,0,1,1,0,4.7,4,33,0
+L1409,Phone,25-34,Local,SUV,New,Medium,1,0,0,0,0,7.9,3,25,0
+L1410,Referral,25-34,Nearby Suburb,SUV,Used,High,0,0,1,0,1,10.6,4,18,1
+L1411,Website,25-34,Local,Sedan,New,Medium,1,1,0,0,0,28.5,3,26,0
+L1412,Website,18-24,Local,EV,New,Medium,1,0,0,1,0,18.6,6,6,1
+L1413,Walk-in,45-54,Nearby Suburb,Hatchback,New,High,0,0,0,1,0,2.4,1,38,0
+L1414,Website,55+,Nearby Suburb,Sedan,Used,Low,0,1,0,1,1,33.0,3,44,0
+L1415,Phone,25-34,Local,Sedan,Used,Low,1,1,1,0,0,23.0,5,3,1
+L1416,Social Media,35-44,Nearby Suburb,SUV,Used,Medium,1,1,0,0,0,11.1,2,43,0
+L1417,Website,45-54,Local,EV,New,Medium,1,1,0,1,1,16.6,3,6,1
+L1418,Website,45-54,Local,Hatchback,New,High,0,1,1,0,0,5.2,2,14,0
+L1419,Phone,35-44,Local,SUV,New,Medium,0,0,1,1,1,9.3,5,18,1
+L1420,Social Media,25-34,Local,Hatchback,Used,Medium,1,1,1,1,0,5.0,0,16,1
+L1421,Walk-in,25-34,Local,SUV,New,Medium,0,1,1,1,0,14.5,1,24,0
+L1422,Phone,45-54,Far Suburb,EV,Used,Low,0,0,0,1,0,39.4,3,13,0
+L1423,Website,45-54,Nearby Suburb,SUV,New,Medium,1,0,1,1,0,7.1,3,1,1
+L1424,Website,25-34,Nearby Suburb,Hatchback,New,High,0,1,1,1,0,8.6,4,38,1
+L1425,Social Media,25-34,Local,SUV,Used,Low,1,0,1,1,0,9.5,4,14,1
+L1426,Social Media,55+,Local,Hatchback,New,Medium,1,1,1,0,0,7.4,4,17,1
+L1427,Website,45-54,Local,Ute,New,Medium,0,0,0,1,0,13.9,5,13,0
+L1428,Social Media,55+,Local,Hatchback,New,Low,1,0,1,0,0,19.5,3,13,0
+L1429,Carsales,45-54,Local,Hatchback,Used,Low,0,0,0,0,0,6.2,4,9,0
+L1430,Referral,25-34,Nearby Suburb,Ute,Used,High,1,0,0,0,0,9.5,0,6,1
+L1431,Phone,35-44,Nearby Suburb,SUV,New,Medium,0,1,0,0,0,15.2,4,6,0
+L1432,Phone,35-44,Nearby Suburb,SUV,Used,Low,0,0,1,1,0,4.6,4,30,1
+L1433,Phone,18-24,Nearby Suburb,SUV,New,Low,1,0,0,1,1,3.4,1,37,1
+L1434,Carsales,35-44,Far Suburb,EV,New,Medium,0,0,0,0,0,6.1,5,14,0
+L1435,Website,45-54,Local,Sedan,New,Medium,1,0,0,0,0,15.7,2,4,1
+L1436,Website,25-34,Local,Ute,Demo,Medium,0,0,1,1,0,4.4,2,34,0
+L1437,Walk-in,45-54,Local,Hatchback,New,Low,0,1,0,1,0,6.4,3,2,1
+L1438,Carsales,35-44,Nearby Suburb,SUV,New,High,0,0,1,1,0,9.5,4,17,0
+L1439,Website,55+,Far Suburb,SUV,New,Medium,0,0,1,0,0,10.7,4,42,0
+L1440,Carsales,18-24,Local,SUV,New,Low,0,0,0,1,0,8.6,2,14,0
+L1441,Social Media,25-34,Far Suburb,Sedan,Used,Medium,1,0,0,0,0,9.7,1,17,0
+L1442,Website,35-44,Far Suburb,SUV,New,Medium,1,0,1,0,0,2.7,5,30,1
+L1443,Carsales,25-34,Local,SUV,New,High,1,0,1,0,0,5.9,4,43,1
+L1444,Phone,45-54,Local,Ute,Used,High,1,1,1,0,0,16.5,5,29,0
+L1445,Referral,45-54,Local,EV,New,Low,0,1,0,0,0,5.5,3,7,0
+L1446,Website,18-24,Far Suburb,SUV,Used,High,1,1,1,1,1,10.9,3,9,1
+L1447,Carsales,35-44,Local,SUV,Used,Medium,0,0,0,0,1,10.2,2,23,0
+L1448,Referral,35-44,Nearby Suburb,SUV,New,High,1,0,0,0,1,15.4,3,36,1
+L1449,Social Media,25-34,Local,Hatchback,Used,Low,0,0,1,0,1,16.9,1,14,0
+L1450,Carsales,55+,Nearby Suburb,Ute,New,Medium,1,1,0,0,0,20.1,2,20,0
+L1451,Phone,45-54,Local,SUV,Used,Low,1,1,1,1,1,24.1,4,17,1
+L1452,Carsales,45-54,Nearby Suburb,SUV,New,High,1,0,1,0,0,4.5,2,32,0
+L1453,Referral,45-54,Far Suburb,Ute,New,Low,1,0,1,1,0,1.3,5,25,1
+L1454,Phone,35-44,Far Suburb,Hatchback,Used,Medium,1,1,0,0,1,7.1,4,30,0
+L1455,Website,55+,Far Suburb,SUV,Demo,Low,1,1,0,1,0,4.2,2,27,0
+L1456,Social Media,45-54,Local,Hatchback,Demo,Low,0,1,1,1,1,5.0,4,27,1
+L1457,Carsales,45-54,Nearby Suburb,SUV,Used,Medium,0,1,0,1,0,13.6,1,31,0
+L1458,Carsales,45-54,Local,Sedan,New,High,0,1,0,1,1,19.3,4,26,0
+L1459,Website,25-34,Local,Ute,New,Medium,0,0,1,1,0,11.1,2,14,0
+L1460,Carsales,45-54,Nearby Suburb,Ute,New,High,0,1,0,0,0,5.7,7,21,0
+L1461,Walk-in,25-34,Local,Sedan,Used,Low,0,1,1,1,0,11.5,3,28,1
+L1462,Carsales,25-34,Nearby Suburb,EV,New,Medium,0,1,0,1,1,15.8,2,15,0
+L1463,Website,25-34,Far Suburb,Sedan,Demo,Medium,1,0,0,1,0,2.7,6,30,1
+L1464,Carsales,55+,Local,Ute,New,Low,1,0,1,0,0,7.5,1,25,0
+L1465,Social Media,45-54,Nearby Suburb,Sedan,New,Medium,0,0,1,0,0,8.0,2,11,0
+L1466,Website,45-54,Local,Ute,New,Medium,0,0,1,1,0,8.4,4,44,1
+L1467,Social Media,45-54,Local,EV,Used,Medium,0,1,0,0,0,4.7,7,11,0
+L1468,Walk-in,35-44,Local,SUV,Used,Medium,0,0,1,0,0,11.7,5,28,1
+L1469,Referral,55+,Far Suburb,EV,Used,Medium,1,0,0,0,1,12.5,2,5,1
+L1470,Carsales,35-44,Far Suburb,Ute,New,Low,0,1,0,1,0,4.4,4,28,0
+L1471,Phone,25-34,Far Suburb,Ute,Used,Low,1,0,0,1,0,22.4,5,8,0
+L1472,Carsales,25-34,Far Suburb,SUV,New,Medium,1,0,1,0,0,3.5,2,26,0
+L1473,Referral,45-54,Local,Ute,Demo,Low,1,0,0,0,0,5.5,2,6,0
+L1474,Walk-in,45-54,Local,Ute,Used,Low,0,1,0,0,0,3.2,1,32,0
+L1475,Walk-in,25-34,Nearby Suburb,SUV,New,Medium,1,0,0,0,1,2.8,1,32,0
+L1476,Carsales,18-24,Nearby Suburb,EV,Used,Medium,0,1,0,1,0,10.3,3,12,0
+L1477,Referral,45-54,Local,SUV,Used,Low,0,0,0,1,0,5.5,4,6,1
+L1478,Carsales,18-24,Local,SUV,New,Medium,0,1,1,0,0,17.0,2,13,0
+L1479,Referral,45-54,Nearby Suburb,Sedan,Demo,Medium,0,0,0,1,0,4.8,1,39,0
+L1480,Phone,55+,Nearby Suburb,Hatchback,New,Low,0,0,1,1,0,5.6,1,40,0
+L1481,Referral,35-44,Local,Hatchback,New,Medium,0,0,1,0,0,15.5,5,44,0
+L1482,Website,25-34,Nearby Suburb,SUV,New,Medium,1,0,0,0,1,3.8,1,34,0
+L1483,Phone,45-54,Nearby Suburb,EV,New,Medium,1,0,1,1,0,6.6,2,23,1
+L1484,Website,45-54,Nearby Suburb,SUV,Used,Medium,0,0,0,0,0,22.2,2,41,0
+L1485,Walk-in,35-44,Local,SUV,New,Low,0,0,1,1,0,0.7,1,17,1
+L1486,Walk-in,55+,Nearby Suburb,SUV,Used,Medium,1,0,1,0,0,2.7,4,1,1
+L1487,Walk-in,18-24,Local,Hatchback,New,Medium,0,0,0,1,1,24.7,2,7,0
+L1488,Carsales,35-44,Local,EV,Demo,High,1,0,1,1,0,12.6,2,13,0
+L1489,Walk-in,45-54,Nearby Suburb,Hatchback,Used,High,1,1,0,1,1,11.6,2,14,1
+L1490,Phone,45-54,Nearby Suburb,Ute,Used,Medium,0,1,0,1,0,2.7,4,17,0
+L1491,Website,25-34,Local,SUV,New,Low,0,0,1,1,0,10.0,8,30,0
+L1492,Walk-in,45-54,Nearby Suburb,Sedan,New,Low,0,0,0,1,0,4.5,2,34,0
+L1493,Website,35-44,Nearby Suburb,Sedan,New,Low,0,1,0,0,0,17.3,3,27,0
+L1494,Website,25-34,Nearby Suburb,Sedan,Used,Medium,0,0,0,0,0,17.9,3,25,0
+L1495,Carsales,25-34,Nearby Suburb,SUV,Demo,Low,1,1,1,1,0,6.0,0,44,1
+L1496,Carsales,45-54,Nearby Suburb,Hatchback,New,Medium,0,0,0,1,0,13.3,3,35,0
+L1497,Carsales,25-34,Nearby Suburb,Sedan,New,Low,0,1,1,0,0,12.1,3,9,0
+L1498,Phone,25-34,Local,Ute,Demo,High,1,0,0,0,0,8.5,7,6,0
+L1499,Walk-in,25-34,Local,Sedan,New,Low,0,1,0,1,0,4.6,3,26,0
+L1500,Referral,45-54,Local,SUV,Used,High,0,0,1,0,1,6.6,2,38,0
