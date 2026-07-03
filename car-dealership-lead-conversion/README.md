@@ -159,3 +159,42 @@ car-dealership-lead-conversion/
 ├── README.md
 └── requirements.txt
 ```
+
+How to Run the Project
+
+Install the required packages:
+
+```
+pip install -r requirements.txt
+```
+
+Generate the dataset:
+```
+python src/generate_dataset.py
+```
+
+Then run the notebooks in order:
+```
+01_generate_dataset.ipynb
+02_exploratory_analysis.ipynb
+03_model_training.ipynb
+04_lead_scoring.ipynb
+```
+
+## Expected Outputs
+Synthetic dealership CRM dataset
+Exploratory analysis charts
+Machine learning model comparison
+Feature importance analysis
+Lead conversion probability scores
+High, medium and low priority lead segments
+Business recommendations for dealership sales teams
+
+## Resume Summary
+
+# Customer Lead Conversion Prediction · Python · XGBoost · CRM Analytics · Classification
+Built a machine learning lead scoring model for a car dealership using CRM, sales and customer enquiry data to predict purchase likelihood and prioritise high-intent leads.
+
+Developed a classification model using lead source, response time, test drive status, finance enquiry, trade-in interest and follow-up activity to predict conversion probability.
+Identified key conversion drivers such as test drive completion, rapid follow-up, finance interest and previous customer relationship.
+Translated model outputs into lead priority segments, enabling targeted sales follow-ups and improved CRM decision-making.
